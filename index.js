@@ -4,7 +4,7 @@ var json2csv = require('json2csv');
 const app = express();
 var rows;
 
-getCSV('http://training.theodi.org/ods/course/en/exercises/RailReferences.csv', function(err,data) {
+getCSV('http://davetaz.github.io/csv-auto-api/RailReferences.csv', function(err,data) {
     rows=data;
     console.log("Data loaded");
 });
