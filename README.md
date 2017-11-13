@@ -10,4 +10,9 @@ http://{home_url}/{column_title}/{search_value}
 
 It can return result/s as CSV or JSON and you can use extensions (.csv & .json) or content negotiation (text/csv & application/json)
 
-I'll put an example here in a bit
+This version uses a subset of the NAPTAN data from data.gov.uk. This is the rail references file which gives you railway station data.
+
+You can query it in the following ways:
+
+http://{home_url}/CrsCode/PNZ
+http://{home_url}/RevisionNumber/3
