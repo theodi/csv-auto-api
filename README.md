@@ -1,4 +1,4 @@
-#CSV-AUTO-API
+=CSV-AUTO-API
 
 Takes a csv file and creates a simple REST API for it in nodejs.
 
