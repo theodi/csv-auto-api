@@ -1,0 +1,25 @@
+{
+  "name": "csv-auto-api",
+  "version": "1.0.0",
+  "description": "An automatic API for CSV",
+  "main": "index.js",
+  "engines": {
+    "node": "7.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davetaz/csv-auto-api"
+  },
+  "author": "Dave Tarrant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davetaz/csv-auto-api/issues"
+  },
+  "homepage": "https://github.com/davetaz/csv-auto-api#readme",
+  "dependencies": {
+  	"get-csv": "^3.0.3",
+    "express": "^4.15.3",
+    "json2csv": "^3.11.5"
+  }
+}
+
