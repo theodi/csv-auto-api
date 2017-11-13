@@ -1,4 +1,4 @@
-=CSV-AUTO-API
+# CSV-AUTO-API
 
 Takes a csv file and creates a simple REST API for it in nodejs.
 
@@ -16,3 +16,15 @@ You can query it in the following ways:
 
 http://{home_url}/CrsCode/PNZ
 http://{home_url}/RevisionNumber/3
+
+# Installing you own
+
+1) Clone this repository
+
+2) npm install 
+
+3) node index.js
+
+# RunKit Example
+
+https://runkit.com/davetaz/5a09d2e172a5510012d2c4d1
