@@ -17,7 +17,7 @@ You can query it in the following ways:
 http://{home_url}/CrsCode/PNZ
 http://{home_url}/RevisionNumber/3
 
-# Installing you own
+# Installing your own
 
 1) Clone this repository
 
