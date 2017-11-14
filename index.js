@@ -2,12 +2,25 @@ const getCSV = require('get-csv');
 const express = require('express');
 var json2csv = require('json2csv');
 const app = express();
-var rows;
+var rows = [];
 
-getCSV('http://davetaz.github.io/csv-auto-api/RailReferences.csv', function(err,data) {
-    rows=data;
-    console.log("Data loaded");
-});
+if (process.argv.length < 3) {
+	console.log('No input files specified!');
+	process.exit();
+}
+
+for (i=2;i<process.argv.length;i++) {
+	file = process.argv[i];
+	loadFile(file);
+}
+
+function loadFile(file) {
+	console.log(file + " loading...");
+	getCSV(file, function(err,data) {
+	    rows = rows.concat(data);
+	    console.log(file + " loaded");
+	});
+}
 
 function handleRequest(req,res) {
     heading = req.params["column_heading"];
