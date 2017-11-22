@@ -15,7 +15,7 @@ if (process.argv.length < 3) {
 	process.exit();
 }
 
-/* 
+/*
  * Itterate over each file and call loadFile() to load it
  */
 for (i=2;i<process.argv.length;i++) {
@@ -42,14 +42,21 @@ function handleRequest(req,res) {
     heading = req.params["column_heading"];
     value = req.params["value"];
 
-    result = rows;
-    
-    // Filter the data according to the request to only contain relevant rows
+    // Also manage query parameters at the same time
+    filter = req.query;
     if (heading) {
-        var result = rows.filter( function (a) {
-            return (a[heading] == value);
-        });
+        filter[heading] = value;
     }
+
+    // Filter the data according to the request to only contain relevant rows
+    result = rows;
+    result = result.filter(function(item) {
+    for(var key in filter) {
+        if(item[key] === undefined || item[key] != filter[key])
+            return false;
+        }
+        return true;
+    });
 
     // Work out what the client asked for, the ".ext" specified always overrides content negotiation
     ext = req.params["ext"];
@@ -67,7 +74,7 @@ function handleRequest(req,res) {
         res.set('Content-Type', 'application/json');
         res.send(JSON.stringify(result,null,4));
     } else {
-        ejs.renderFile(__dirname + '/page.html', { path: req.originalUrl }, function(err,data) {
+        ejs.renderFile(__dirname + '/page.html', { path: req.path, query: req.query }, function(err,data) {
             res.send(data);
         });
     }

@@ -32,3 +32,13 @@ You can query it in the following ways:
 
 http://{home_url}/CrsCode/PNZ
 http://{home_url}/RevisionNumber/3
+
+You can also send query parameters to it which work in the same way except you can have many of them: 
+
+http://{home_url}/?col1=value1&col2=value2
+
+and just to confuse you can mix the two:
+
+http://{home_url}/col1/value1?col2=value2&col3=value3
+
+I don't recommend this much confusion but still
