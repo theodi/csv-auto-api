@@ -37,7 +37,9 @@
 			});
 			var table = $('#datatable').DataTable({
 				"responsive": true,
-				"data": output
+				"data": output,
+				"dom": 'Bfrtip',
+				"buttons": ["copy","csv","pdf"]
 			});
 		});
 		
