@@ -29,7 +29,7 @@ function handleRequest(req,res) {
     var result = rows.filter( function (a) {
         return (a[heading] == value); 
     });
-    if (ext == "csv" || req.accepts('text/csv')) {
+    if (ext == "csv" || (req.accepts('text/csv') && !ext)) {
         res.set('Content-Type', 'text/csv');
         res.send(json2csv({ data: result }));
     } else {
