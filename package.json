@@ -19,7 +19,8 @@
   "dependencies": {
   	"get-csv": "^3.0.3",
     "express": "^4.15.3",
-    "json2csv": "^3.11.5"
+    "json2csv": "^3.11.5",
+    "ejs": "^2.0.0"
   }
 }
 
