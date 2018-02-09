@@ -24,7 +24,7 @@ If you have masses of big files then you might need to expand the avaialble memo
 
 # RunKit Example
 
-https://runkit.com/davetaz/5a09d2e172a5510012d2c4d1
+https://csv-auto-api-h3vd88nxdkmp.runkit.sh/
 
 This version uses a subset of the NAPTAN data from data.gov.uk. This is the rail references file which gives you railway station data.
 
