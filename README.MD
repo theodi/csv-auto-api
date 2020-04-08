@@ -14,6 +14,10 @@ You can also perform queries using a query API e.g.
 
 http://{home_url}/?{column_title}={search_value}
 
+and to add to the confusion you can also mix the two techniques
+
+http://{home_url}/{column_title}/{search_value}?{column_title2}={search_value2}
+
 # Installing your own
 
 1) Clone this repository
