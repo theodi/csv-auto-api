@@ -6,13 +6,13 @@ Think of this like a single filter on the top of an excel sheet.
 
 The REST API works as follows:
 
-`http://{home_url}/{column_title}/{search_value}
+http://{home_url}/{column_title}/{search_value}
 
 It can return result/s as CSV or JSON and you can use extensions (.csv & .json) or content negotiation (text/csv & application/json)
 
 You can also perform queries using a query API e.g.
 
-`http://{home_url}/?{column_title}={search_value}
+http://{home_url}/?{column_title}={search_value}
 
 # Installing your own
 
