@@ -1,0 +1,5 @@
+﻿property,key,value
+starRating,type,http://www.w3.org/2001/XMLSchema#integer
+starRating,minimum,0
+starRating,maximum,4
+dct:modified,type,http://www.w3.org/2001/XMLSchema#dateTime

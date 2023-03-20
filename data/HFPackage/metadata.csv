@@ -1,0 +1,12 @@
+﻿key,value
+$rdf,http://www.w3.org/1999/02/22-rdf-syntax-ns#
+$schema,http://schema.org/
+$jsonSchema,https://json-schema.org/draft/2019-09/schema/
+$dct,http://purl.org/dc/terms/
+$foaf,http://xmlns.com/foaf/0.1/
+$base,http://localhost:3000/
+$vocab,
+dct:title,Star ratings of health facilities in Tanzania in 2015
+dct:description,This dataset provides star ratings of health facilities in many regions of Tanzaia in 2015. The star rating ranges between 0 (low) to 4 (high). 
+dct:license,http://opendefinition.org/licenses/cc-by/
+dct:modified,2015-12-31T23:59:00+00:00

@@ -12,6 +12,10 @@
 	<script type="text/javascript" src="https://cdn.datatables.net/buttons/1.4.2/js/buttons.html5.min.js"></script>
 </head>
 <body>
+	<h1 id="dct:title"></h1>
+	<p id="dct:description"></p>
+	<p><b>Modified: </b><span id="dct:modified"></span></p>
+	<p><b>Data license: </b><span id="dct:license"></span></p>
 	<table id="datatable" class="table table-striped table-bordered" cellspacing="0" width="100%">
 		<thead>
 			<tr id="headers">
@@ -32,18 +36,94 @@
 		if (query_params.length > 0) {
 			path = path + "?" + query_params.join("&");
 		}
-		
+		var variables = {};
+		$.ajax({
+   			type: "GET",
+   			url: path,
+   			beforeSend: (xhr) => {
+  	  			if (xhr && xhr.overrideMimeType) {
+    	  			xhr.overrideMimeType('application/ld+json');
+    			}
+  			},
+   			success: function(result){
+   				$.each(result["@context"], function(key,val) {
+   					variables[key] = val;
+   					if (key.substring(0,1) != "@") {
+   						var link = document.createElement("link");
+   						link.setAttribute("rel","schema."+key);
+   						link.setAttribute("href",val);
+   						document.getElementsByTagName("head")[0].appendChild(link);
+   					}
+   				});
+   				$.each(result, function(key,val) {
+   					if(key.substring(0,1) != "@") {
+						var element = document.getElementById(key);
+   						if (typeof val === "object") {
+   							var link = document.createElement("link");
+   							link.setAttribute("rel",key);
+   							link.setAttribute("href",val["@id"]);
+   							document.getElementsByTagName("head")[0].appendChild(link);
+   							element.setAttribute("rel",key);
+   							element.setAttribute("href",val["@id"]);
+   							var a = document.createElement("a");
+   							a.setAttribute("href",val["@id"]);
+   							a.innerHTML = val["@id"];
+   							element.appendChild(a);
+   						} else {
+   							var meta = document.createElement("meta");
+   							meta.setAttribute("name",key);
+   							meta.setAttribute("content", val);
+   							document.getElementsByTagName("head")[0].appendChild(meta);
+   							element.setAttribute("name",key);
+   							element.setAttribute("content", val);
+   							element.innerHTML = val;
+   						}
+   					}
+   				});
+   			},
+   			error: function(request,status,errorThrown) {
+   				console.log("error");
+        		// There's been an error, do something with it!
+        		// Only use status and errorThrown.
+        		// Chances are request will not have anything in it.
+   			}
+ 		});
 		// Get the data render the table
 		$.getJSON(path, function( data ) {
 			item = data[0];
 			$.each(item, function(key,val) {
+				if (key.indexOf(":") > 0 && key.substring(0,4) != "http") {
+					var key2 = key.substring(key.indexOf(":")+1);
+					prefix = key.substring(0,key.indexOf(":"));
+					key = variables[prefix] + key2;
+				}
 				object = [];
-				$('#headers').append('<th>' + key + '</th>');
+				if(key.substring(0,4) == "http") {
+					$('#headers').append('<th><a href="'+key+'">' + key2 + '</a></th>');
+				} else {
+					$('#headers').append('<th>' + key + '</th>');
+				}
 			});
 			output = [];
 			$.each(data, function(index,item) {
 				part = [];
 				$.each(item,function(key,val) {
+					if (val.indexOf(":") > 0 && val.substring(0,4) != "http") {
+						var val2 = val.substring(val.indexOf(":")+1);
+						prefix = val.substring(0,val.indexOf(":"));
+						val = variables[prefix] + val2;
+					}
+					if(val.substring(0,4) == "http" && val2) {
+						val = '<a href="'+val+'">' + val2 + '</a>';
+					}
+					if(val.substring(0,4) == "http" && !val2) {
+						if (val.indexOf("#") > 0) {
+							val = '<a href="'+val+'">'+val.substring(val.lastIndexOf("#")+1)+'</a>';
+						} else {
+							val = '<a href="'+val+'">'+val.substring(val.lastIndexOf("/")+1)+'</a>';
+						}
+						
+					}
 					part.push(val);
 				});
 				output.push(part);

@@ -1,0 +1,1432 @@
+﻿$id,foaf:name,rdf:type,owner,schema:addressRegion,starRating
+1,Bugelenga,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Geita_Region,1
+2,St Pio,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Geita_Region,1
+3,Mabamba,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Kigoma_Region,2
+4,Kifura,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Kigoma_Region,1
+5,Matyazo,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Kigoma_Region,1
+6,Bitale,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Kigoma_Region,1
+7,Mgambo Health Centre,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Kigoma_Region,1
+8,Nguruka Health Centre,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Kigoma_Region,1
+9,Mwamgongo,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Kigoma_Region,1
+10,Kasaka,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Kigoma_Region,0
+11,Malagarasi Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Kigoma_Region,0
+12,Kashuguru Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Kigoma_Region,0
+13,Kalenge Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Kigoma_Region,0
+14,Mwakizega Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Kigoma_Region,0
+15,Ilagala Health Centre,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Kigoma_Region,0
+16,Uvinza Health Centre,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Kigoma_Region,0
+17,Katumbi Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Kigoma_Region,0
+18,Kalya Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Kigoma_Region,0
+19,Basanza Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Kigoma_Region,0
+20,Name Of Disp 3,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Kigoma_Region,0
+21,Nyamika,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,2
+22,Bisumwa,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,2
+23,Kiabakari Giorgio Fransat,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,2
+24,Ryamisanga,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,2
+25,Wegero,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,2
+26,http://dbpedia.org/resource/Mwanza_Regionburiga,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,2
+27,Kyawazarwe,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+28,Buhemba,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+29,Rwamkoma Jkt,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+30,Ryamgabo,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+31,Butuguri,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+32,Kiabakari Jwtz,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+33,Masurura,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+34,Ikizuhealth Centre,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+35,Nyasirori,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+36,Nyamisisi,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+37,Kizaru,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+38,Magana,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+39,Kasahunga H/c,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+40,Nyankanga,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+41,Mwibagi,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+42,Bunda H/c,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+43,Nyabange,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+44,Kamugegi,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+45,Nyabange,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+46,Muriaza,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+47,Muriaza Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+48,Sir0risimba,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,1
+49,Kamgendi,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,0
+50,Rwamkoma,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,0
+51,Mirwa,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,0
+52,Kasuguti,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Mara_Region,0
+53,Baranga,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,0
+54,Kisorya,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Mara_Region,0
+55,Mugeta,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Mara_Region,0
+56,Nyatwali H/c,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Mara_Region,0
+57,Busegwe,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,0
+58,Busegwe Sda,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,0
+59,Kitalamanka,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,0
+60,Kiabakari Magereza,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mara_Region,0
+61,Fumagila,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mwanza_Region,2
+62,Tmrc-urafiki,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Mwanza_Region,1
+63,Kaseni,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mwanza_Region,1
+64,Murutilima,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mwanza_Region,1
+65,Gereza Butimba,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mwanza_Region,1
+66,Huduma Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mwanza_Region,1
+67,Bukondo,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Mwanza_Region,0
+68,Mahembe Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+69,Mwamapalala Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+70,Lugulu Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+71,Zanzui Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+72,Isanga Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+73,Majahida Aict Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+74,Muhoja Kmt Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+75,Mwakibuga Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+76,Nyangokolwa Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+77,Nyaumata Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+78,Old Maswa Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+79,Ngulyati Health Centre,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+80,Bariadi Town Council  ,schema:Hospital,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+81,Maswa,schema:Hospital,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+82,Songambele Rc,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+83,Nkololo Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+84,Masewa,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+85,Igegu,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+86, Matongo Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+87,Kasoli,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+88,Dutwa Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+89,Banemhi,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+90,Mwasinasi Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+91,Mwasubuya Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+92,Sakwe Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+93,Mwamlapa Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+94,Mwanangi,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+95,Mwanhale,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+96,Mwasamba,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+97,Malili,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+98,Mungu Kwanza,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+99,Kalemera,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+100,Bulima,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+101,Nassa,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+102,Lalago,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+103,Malampaka,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+104,Badi,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+105,Malita,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+106,Budekwa Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+107,Bugalama Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+108,Masanwa Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+109,Sangamwalugesha,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+110,Bushashi Dipensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+111,Ipililo Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+112,Mwabulimbu,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+113,Maswa Sec ,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+114,Mwabagalu Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+115,Mwashegeshi  Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+116,Wazazi Binza Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+117,Mpindo Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+118,Igunya Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+119,Jija,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+120,Nyashimba Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,1
+121,Sagati Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+122,Mwaswale Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+123,Nangale Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+124,Migato Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+125,Mwabuki Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+126,Habiya,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+127,Bumera Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+128,Gaswa Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+129,Mhunze Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+130,Lagangabilili Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+131,Nanga Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+132,Kinamweli Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+133,Sunzula Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+134,Sawida Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+135,Mwanunui Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+136,Bunamala  Mbugani Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+137,Nyamalapa Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+138,Wazazi Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+139,U.W.T Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+140,Kashishi Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+141,Ngeme Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+142,Chinamili Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+143,Nkuyu Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+144,Mitobo Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+145,Longalombogo Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+146,Bunamhala Chuoni Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+147,Bupandagila Sda Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+148,Dr. Maduhu Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+149,Dr. Mwijage Clinic,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+150,Guduwe Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+151,Kilulu Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+152,Matale Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+153,Mwanaleguma Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+154,Bariadi Magereza,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+155,Ditima Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+156,Muungano Health Centre,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+157,Byuna ,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+158,Gambosi,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+159,Ihusi Dispensaryensary ,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+160,Nyawa Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+161,Halawa,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+162,Ng'arita,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+163,Ikungulyambesi Dispensaryensary ,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+164,Gibeshi Dispensaryensary ,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+165,Lulayu,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+166,Nyamikoma Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+167,Nyamswa Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+168,Gasuma ,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+169,Sapiwi ,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+170,Dutwa Wazazi ,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+171,Miswaki,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+172,Ikungulyabashashi,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+173,Igaganulwa Aict Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+174,Nyaluhande,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+175,Shigala,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+176,Ngasamo,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+177,Kijereshi,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+178,Gininiga,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+179,Mwamigongwa,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+180,Lutubiga,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+181,Lamadi ,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+182,Menonite ,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+183,Lukungu,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+184,Kiloleli,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+185,Ijiha,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+186,Mwamjulila,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+187,Mwamagigisi,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+188,Bushigwamala,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+189,Nyamikoma,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+190,Badugu,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+191,Igalukilo,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+192,Mkula,schema:Hospital,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+193,Mwasayi,schema:MedicalClinic,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+194,Mwagala Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+195,Dodoma,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+196,Kinamwigulu,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+197,Sayusayu  Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+198,Ikulilo Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+199,Shinyanga Mwenge Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+200,Mwamitumai Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+201,Isanga Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+202,Dulung'wa Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+203,Kadoto,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+204,Ilamata,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+205,Mwabayanda Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+206,Gula Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+207,Sulu,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+208,Mwabomba,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+209,Seng'wa Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+210,Senani Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+211,Mwamanenge Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+212,Nguliguli,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+213,Isageng'he  Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+214,Masela,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+215,Malya Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+216,Mwang'honoli,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+217,Shishiyu Dispensaryensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+218,Zebeya Dispensary,schema:Pharmacy,Not Specified,http://dbpedia.org/resource/Simiyu_Region,0
+219,Bochi,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,3
+220,Mikocheni Mission,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,3
+221,Moyo Safi Wa Maria,schema:MedicalClinic,Private,http://dbpedia.org/resource/Dar_es_Salaam,3
+222,Tmj,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+223,Masana,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+224,Mbweni Mission,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+225,Salaaman,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+226,Sanitas,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+227,Edward Michaudi,schema:MedicalClinic,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+228,Aar Chato,schema:MedicalClinic,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+229,Marie Stopes- Kihttp://dbpedia.org/resource/Mara_Region,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+230,Arafa Mwananchi,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+231,Ben Mico,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+232,Bj Siso Mmari,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+233,Kitea,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+234,Omek,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+235,Aar Sinza,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+236,Upendo Ikunda,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+237,Pk,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+238,St. Brendan,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+239,Faraja,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+240,Aar Tegeta,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+241,Mafarasi Kigogo,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+242,Cignat,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+243,Kinondoni B,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,2
+244,Kibangu Mission,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+245,Kinondoni,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+246,Sali,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+247,Marie Stopes Mwenge,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+248,Msasani Peninsula,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+249,Mama Privatema,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+250,Mikumi,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+251,Ekenywa,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+252,Imtu,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+253,St. Monica,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+254,Mount Ukombozi,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+255,Neema,schema:MedicalClinic,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+256,Luguruni H/c,schema:MedicalClinic,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+257,Sisa,schema:MedicalClinic,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+258,London,schema:MedicalClinic,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+259,Mico Sinza,schema:MedicalClinic,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+260,Agha Khan,schema:MedicalClinic,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+261,Tms Mbezi,schema:MedicalClinic,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+262,Mna Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+263,Salama 1- Baruti,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+264,Gati Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+265,Kh,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+266,Arafa Kona,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+267,Arafa Mbezi,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+268,Arafa Ubuprivate,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+269,Huruma Kihttp://dbpedia.org/resource/Mara_Region,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+270,Ics St. Esther,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+271,Kg Afya Care,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+272,Kihttp://dbpedia.org/resource/Mara_Region Central,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+273,Kombe,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+274,Marie Stopes - Mabibo,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+275,Mico Darajani,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+276,Nurrhaifo Mawimbi,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+277,Mafarasi Muleba,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+278,Azania,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+279,Taifo Mwembechai,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+280,Kodepa Charitable Tandale,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+281,Eureka,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+282,Amen,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+283,Tip Top,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+284,Kigogo Moravian,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+285,Dr. Hiza,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+286,Arafa Huruma,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+287,New Tegeta,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+288,Tumaini Group,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+289,Antonio Verna,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+290,Red Cross Humanitarian,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+291,Arafa Vigae,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+292,Mauto,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+293,Msisiri,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+294,New Msasani,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+295,Samaritan,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+296,Mashuda,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+297,Vijana Hostel,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+298,Euro,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+299,Kam,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+300,Mmr,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+301,Fm Cqpu,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+302,Bonde La Mpunga,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+303,Ultimate Security,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+304,Mcdit-dispensary Baruti,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+305,Mico Aat,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+306,Mico Kihttp://dbpedia.org/resource/Mara_Region Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+307,Nuraifo Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+308,Mikuru Health Care,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+309,Kipasika,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+310,Life Sign,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+311,Kinae,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+312,Baraka Mbezi,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+313,Kunduchi Beach Health Service Ltd,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+314,Taifo Mbezi,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+315,Wema,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+316,Prime Care Makabe,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+317,Father Triest,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+318,Arafat Basna,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+319,Nsilo,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+320,Kelei,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+321,Arafa Uzuri,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+322,Tm,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+323,Megra,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+324,Mico Ndugumbi,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+325,Tag Mabibo,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+326,Tayma Tandale,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+327,Mico Midizini,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+328,Kwezi,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+329,Arafa Charitable,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+330,Taifo Niki,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+331,Mico Salasala,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+332,Tegeta Mission,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+333,Aif Huduma,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+334,Dr. Mhina,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+335,Keto,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+336,St. Theresa,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+337,Aar Wazo,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+338,Taifo Tegeta,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+339,Kaja,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+340,Kisiwani,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+341,Mico Mars,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+342,Mico Annex,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+343,Mico Mkwajuni,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+344,St. Benedict,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+345,Family Care,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+346,Furaha,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+347,Sundarya,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+348,St. Clara Haule,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,1
+349,Sino,schema:Hospital,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+350,Istiqama,schema:MedicalClinic,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+351,Marise Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+352,Mico Mabibo Farasi,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+353,Afya Care Sinza,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+354,Mico Tandale,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+355,Sun,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+356,Honest,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+357,Meigy,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+358,Nuraifo,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+359,Pangasenga,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+360,Taifo Disp,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+361,Afya Care Manzese,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+362,Tks,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+363,K&b Mivumoni,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+364,Arafa Boko,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+365,Kodepa,schema:Pharmacy,Private,http://dbpedia.org/resource/Dar_es_Salaam,0
+366,http://dbpedia.org/resource/Geita_Region Gold Mine,schema:MedicalClinic,Private,http://dbpedia.org/resource/Geita_Region,2
+367,Upendo Health Center,schema:MedicalClinic,Private,http://dbpedia.org/resource/Geita_Region,2
+368,Waja,schema:Hospital,Private,http://dbpedia.org/resource/Geita_Region,1
+369,Sakamu,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,1
+370,Kasamwa Sda,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,1
+371,Iponya,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,1
+372,Bwelwa Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,1
+373,Ihega Aict,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,1
+374,Kabuhima Mennonite,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,1
+375,Samartan,schema:MedicalClinic,Private,http://dbpedia.org/resource/Geita_Region,1
+376,Lisabon,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,1
+377,Wazazi Nkomo,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,1
+378,St Peter Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,1
+379,Lubeho Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,1
+380,Wazazi Lugunga Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,1
+381,Mkulima Dispensery,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,1
+382,Bakwata Shamsia Buseresere,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,1
+383,Boko Tcmc Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+384,Wazazi Isebya,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+385,Nyasembe,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+386,Nyumbani,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+387,Msonga Wazazi,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+388,Nyabugera,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+389,Aic Kabiga Disp,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+390,Bakwata Huruma,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+391,Kmt Muganza,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+392,Kharumwa Jumuiya Ya Wazazi,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+393,Muungano Health Centre,schema:MedicalClinic,Private,http://dbpedia.org/resource/Geita_Region,0
+394,Sisi Kwa Sisi,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+395,Wazazi Dillu,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+396,Tumaini Disp,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+397,Kmt Buziku,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+398,Iparamasa,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+399,Msufini,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+400,Vatican,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+401,Bakwata  Muganza,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+402,Upendo,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+403,Bahimba Disp,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+404,St. Joseph,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+405,Wazazi Lulembela Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Geita_Region,0
+406,Nduta Refugee Camp,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,3
+407,Shunga Health Centre,schema:MedicalClinic,Private,http://dbpedia.org/resource/Kigoma_Region,2
+408,Msambara Disp,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,2
+409,Heri Hospital,schema:Hospital,Private,http://dbpedia.org/resource/Kigoma_Region,2
+410,Muhinda,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,2
+411,Gombe Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,2
+412,Kakonko Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,2
+413,http://dbpedia.org/resource/Kigoma_Region Baptist,schema:Hospital,Private,http://dbpedia.org/resource/Kigoma_Region,1
+414,Nyarugusu Refugees Health Centre,schema:MedicalClinic,Private,http://dbpedia.org/resource/Kigoma_Region,1
+415,Upendo Founation,schema:MedicalClinic,Private,http://dbpedia.org/resource/Kigoma_Region,1
+416,Kasumo,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,1
+417,Upendo Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,1
+418,Buhigwe,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,1
+419,Mulera,schema:MedicalClinic,Private,http://dbpedia.org/resource/Kigoma_Region,1
+420,Huruma Modern Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,1
+421,Keza,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,1
+422,Bigabiro Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,1
+423,Biharu,schema:MedicalClinic,Private,http://dbpedia.org/resource/Kigoma_Region,1
+424,Nyakimwe,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,1
+425,Sda Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,1
+426,Kasulwa,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,1
+427,Kiganza  Mission,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,1
+428,Mubanga,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,1
+429,Tumaini Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,1
+430,Furaha Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,1
+431,Heru Ushingo Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,0
+432,Ndaboine Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,0
+433,Sda,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,0
+434,Musagara,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,0
+435,Muzdalifah,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,0
+436,Upendo Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,0
+437,http://dbpedia.org/resource/Kigoma_Region International,schema:MedicalClinic,Private,http://dbpedia.org/resource/Kigoma_Region,0
+438,Kalinzi Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,0
+439,Faraja,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,0
+440,Mahale Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,0
+441,Muzdalifa Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Kigoma_Region,0
+442,Tgf,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mara_Region,3
+443,Kowak Hospital,schema:Hospital,Private,http://dbpedia.org/resource/Mara_Region,3
+444,Masangahealth Centre,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mara_Region,3
+445,Will's Memorial,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mara_Region,2
+446,Rao Hospital,schema:Hospital,Private,http://dbpedia.org/resource/Mara_Region,2
+447,Shirati Hospital,schema:Hospital,Private,http://dbpedia.org/resource/Mara_Region,2
+448,Huduma Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,2
+449,Bunda Ddh,schema:Hospital,Private,http://dbpedia.org/resource/Mara_Region,2
+450,Name Of Dispensarybikira Maria,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,2
+451,Grumeti,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,2
+452,St. Mary's Hospital Kibara,schema:Hospital,Private,http://dbpedia.org/resource/Mara_Region,2
+453,Ngasaro Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,2
+454,Sachita,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mara_Region,2
+455,Marie Stopes Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,2
+456,Kada Mugumu,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,2
+457,Nyereree (mugumu)ddh,schema:Hospital,Private,http://dbpedia.org/resource/Mara_Region,1
+458,Sda,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+459,Rosana,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+460,Baraki H/c,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mara_Region,1
+461,Nyarero,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mara_Region,1
+462,Mosongo,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+463,Kibumaye,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+464,Omegahealth Centre,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mara_Region,1
+465,Tarime Goodwill Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+466,Aict Nyasho Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+467,Aict Bweri,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+468,Nyarombo H/c,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mara_Region,1
+469,Bethsaida H/c,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mara_Region,1
+470,Name Of Dispensary Makonzo,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+471,Kamunyonge Sda,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+472,Bwasi,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+473,St.Valentine Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+474,Coptic Medical Center,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mara_Region,1
+475,Nyasoro Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+476,Alpha Prinimat,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+477,Manga Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+478,Masonga H/c,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mara_Region,1
+479,Keisangora,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+480,Kada,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+481,Gisarya,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+482,Isseco,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,1
+483,Rwanga Kmt,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,0
+484,Burito,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,0
+485,Burere Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,0
+486,Jema Rch Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,0
+487,Kothora Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,0
+488,Urafiki,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,0
+489,Nyamasanda,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,0
+490,Cada,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,0
+491,Ihsa - Kitenga,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,0
+492,S0ta Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,0
+493,Sayuni Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,0
+494,Nyakato Red Cross Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mara_Region,0
+495,Ntagacha,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mara_Region,0
+496,Agakhan,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,2
+497,Bukumbi,schema:Hospital,Private,http://dbpedia.org/resource/Mwanza_Region,2
+498,Nyakato,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,2
+499,Kiloleli Juu,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,2
+500,Nyakahoja,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,2
+501,Saut Nyegezi Disp,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,2
+502,Pasiansi Sda,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,2
+503,Mwananchi Hospital,schema:Hospital,Private,http://dbpedia.org/resource/Mwanza_Region,2
+504,Umati,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,2
+505,Kakobe Health Centre,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,2
+506,Shree Hindumandal Hosp,schema:Hospital,Private,http://dbpedia.org/resource/Mwanza_Region,2
+507,Aar http://dbpedia.org/resource/Mwanza_Region Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,2
+508,Itabagumba Aict Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,2
+509,Huduma,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,1
+510,Usimau,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+511,Kahunda,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+512,Cf Hospital,schema:Hospital,Private,http://dbpedia.org/resource/Mwanza_Region,1
+513,Sumve Hospital,schema:Hospital,Private,http://dbpedia.org/resource/Mwanza_Region,1
+514,Sengerema Ddh,schema:Hospital,Private,http://dbpedia.org/resource/Mwanza_Region,1
+515,Marie Stopes Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+516,Juwa,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+517,Tanzania Breweries Limited,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+518,http://dbpedia.org/resource/Mwanza_Region Hospital,schema:Hospital,Private,http://dbpedia.org/resource/Mwanza_Region,1
+519,Biohealth Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+520,Kmt Sengerema Disp,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+521,Kazilankanda,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+522,Kamanga Hospital,schema:Hospital,Private,http://dbpedia.org/resource/Mwanza_Region,1
+523,Kijima Aict Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+524,Gisan Hc,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,1
+525,Prinmat Arma,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+526,Upendo,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+527,Genesis,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+528,Aict Makongoro Health Centre,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,1
+529,Hurumia Watoto,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,1
+530,Huruma Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+531,Bio Health Centre,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,1
+532,Nazareth,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+533,Buhingo Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+534,Salamaan,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,1
+535,Joseph Medicare,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+536,Magera,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,1
+537,Spj Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+538,Kilombero Hc,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,1
+539,Star Medicare &clinics,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+540,Mandela,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+541,Amani Chogo Memorial Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+542,Mwamashimba,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,1
+543,Tumaini,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,1
+544,Kulwa Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+545,Dvn,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+546,Nabungona Sda Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+547,Anamed,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+548,Kmt-mkuyuni,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+549,Ngumo,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,1
+550,Amani Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,1
+551,Mahina Msamaria Health Center,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,0
+552,Tukuyu,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+553,Upendo,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,0
+554,K.K.K.T Imani,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+555,Ilemela,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+556,http://dbpedia.org/resource/Mwanza_Region,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+557,Nyasaka,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+558,Nyambiti,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,0
+559,"Serengeti 'c"" Cada",schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+560,Komaswa,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+561,Bakwata,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+562,Saidia Watoto,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+563,Hageb,schema:MedicalClinic,Private,http://dbpedia.org/resource/Mwanza_Region,0
+564,Huduma,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+565,Magomeni,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+566,Nakatunguru,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+567,Victoria,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+568,Kmt Wanze,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+569,Kanyama,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+570,Corner,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+571,Nyamazugo Prinmat,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+572,Military,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+573,Maria/kisesa Disp,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+574,Huruma Disp,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+575,Mlimani,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+576,Mama,schema:Pharmacy,Private,http://dbpedia.org/resource/Mwanza_Region,0
+577,Bakwata Maganzo,schema:Pharmacy,Private,http://dbpedia.org/resource/Simiyu_Region,1
+578,Rc Mwanhuzi,schema:Pharmacy,Private,http://dbpedia.org/resource/Simiyu_Region,1
+579,Mshikamano Bakwata,schema:Pharmacy,Private,http://dbpedia.org/resource/Simiyu_Region,1
+580,New Stand Bakwata Dispensary,schema:Pharmacy,Private,http://dbpedia.org/resource/Simiyu_Region,0
+581,Tandale,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,4
+582,Mburahati,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,4
+583,Kihttp://dbpedia.org/resource/Mara_Region Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,3
+584,Mbezi Luis Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,3
+585,Mavurunza,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,3
+586,Mzimuni,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,3
+587,Makuburi,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,3
+588,Kunduchi,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,3
+589,Ununio,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,3
+590,Boko,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,3
+591,Tegeta,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,3
+592,Kawe,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,3
+593,Salasala,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,3
+594,Sinza Hospital,schema:Hospital,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+595,Udsm Hc,schema:MedicalClinic,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+596,Magomeni,schema:MedicalClinic,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+597,Mabibo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+598,Mpiji Magohe,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+599,Kibwegere,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+600,Mabwepande,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+601,Mbopo,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+602,Mlalakuwa Jkt,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+603,Mbweni Jkt,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+604,Mbweni Mpiji,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+605,Mbweni,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+606,Madale,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+607,Wazo,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+608,Msumi,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+609,Kibamba,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+610,Kisopwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+611,Msewe,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+612,Kiluvya,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+613,Mlalakuwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+614,Mwenge,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,2
+615,Manzese,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+616,Bunju,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+617,Goba,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+618,Kwembe Kati,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+619,Kwembe,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+620,Kigogo,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+621,Mabibo Hostel,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+622,Ardhi University,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+623,Ndumbwi,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+624,Makoprivate Juu,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+625,Js Babhra,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+626,Kijitonyama,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+627,Oysterbay,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+628,Kambangwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+629,Hananasif,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,1
+630,Boko Magereza,schema:Pharmacy,Public,http://dbpedia.org/resource/Dar_es_Salaam,0
+631,http://dbpedia.org/resource/Geita_Region Dc Hosp,schema:Hospital,Public,http://dbpedia.org/resource/Geita_Region,2
+632,Nyarugusu,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,2
+633,Nyakabale,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,2
+634,Mharamba,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,2
+635,Senga,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,2
+636,Lwezera,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,2
+637,Chigunga Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,2
+638,Chibingo,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,2
+639,Nyamilolelwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,2
+640,Bulela Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,2
+641,Nzera,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,1
+642,Bugalula,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+643,Mwamitilwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+644,Kashishi,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,1
+645,Kachwamba,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,1
+646,Nyankumbu,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,1
+647,Kifufu,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+648,Busanda,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+649,Lubondo,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+650,Katolo,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,1
+651,Chato,schema:Hospital,Public,http://dbpedia.org/resource/Geita_Region,1
+652,Izumacheli,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+653,Buzirayombo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+654,Bukombe District,schema:Hospital,Public,http://dbpedia.org/resource/Geita_Region,1
+655,Ilolangulu Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+656,Kasota,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+657,Nyanhwiga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+658,Busolwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+659,Nyabilezi,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+660,Bwanga,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,1
+661,Kharumwa Health Centre,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,1
+662,Nyakaduha,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+663,Chikobe,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,1
+664,Mwingiro Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+665,Katoro Tcmc,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+666,Bukwimba Disp.,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+667,Kayenze Disp.,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+668,Fulwe,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+669,Kigongo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+670,Lwamgasa,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+671,Buseresere,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+672,Lubanga,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+673,Nyang'hwale Health Center,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,1
+674,Nyangalamila Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+675,Ikunguigazi,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+676,Ihanga,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+677,Ikuzi,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+678,Kasamwa,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,1
+679,Ushirika Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+680,Nyambiti,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+681,Bugando,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+682,Ushirombo Health Center,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,1
+683,Bukandwe Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+684,Butwa Lulegeya,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+685,Nkome,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+686,Kakubilo,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+687,Bukondo,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+688,Nyasato Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+689,Nyang'holongo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+690,Nyijundu Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+691,Ndelema,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+692,Ilangale Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+693,Ilyamchele,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+694,Buziku,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,1
+695,Uyovu,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,0
+696,Bukoli,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,0
+697,Bulugala Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+698,Kagu,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+699,Nyakagwe,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+700,Nyugwa Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+701,Iboya Health Center,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,0
+702,Bukombe,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+703,Munekezi,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+704,Katete Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+705,"Bung""wangoko Dispensary",schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+706,Masumbwe Hc,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,0
+707,Kafita,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+708,Ilemela,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+709,Kasema,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+710,Ibondo,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+711,Lulembela,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+712,Iyogelo  Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+713,Busaka Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+714,Kasala Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+715,Kishinda,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+716,Nyamalimbe,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+717,St Paul,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+718,Nyalwanzaja,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+719,Kitongo,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+720,Nyantimba,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+721,Kasang'hwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+722,Shabaka Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+723,Kakola Disp.,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+724,Katende,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+725,Mkungo,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+726,Makurugusi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+727,Bugenezi,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+728,Lugunga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+729,Kibumba,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+730,Butundwe,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+731,Nyamilembe,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+732,Bulega,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+733,Huruma Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+734,Ichwankima,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+735,Kasenga,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+736,Butalama,schema:MedicalClinic,Public,http://dbpedia.org/resource/Geita_Region,0
+737,Lyulu Disp.,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+738,Nyakafuru Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+739,Kibehe,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+740,Butengorumasa Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+741,Kinsabe Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Geita_Region,0
+742,Kibondo,schema:Hospital,Public,http://dbpedia.org/resource/Kigoma_Region,2
+743,Kichananga,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,2
+744,Nengo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,2
+745,Nengo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,2
+746,Kumhasha  Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,2
+747,Samvura Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,2
+748,Rusesa Health Centre,schema:MedicalClinic,Public,http://dbpedia.org/resource/Kigoma_Region,2
+749,Nyakitonto Health Centre,schema:MedicalClinic,Public,http://dbpedia.org/resource/Kigoma_Region,2
+750,Mwibuye Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,2
+751,Kasaka,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,2
+752,Kabanga Hosp,schema:Hospital,Public,http://dbpedia.org/resource/Kigoma_Region,1
+753,Kasulu Hosp,schema:Hospital,Public,http://dbpedia.org/resource/Kigoma_Region,1
+754,Ujiji Health Centre,schema:MedicalClinic,Public,http://dbpedia.org/resource/Kigoma_Region,1
+755,Kiganamo Hc,schema:MedicalClinic,Public,http://dbpedia.org/resource/Kigoma_Region,1
+756,Bitare Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+757,Busunzu,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+758,Kasanda Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+759,Heru  Juu,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+760,Mwandiga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+761,Twabagondozi,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+762,Gungu,schema:MedicalClinic,Public,http://dbpedia.org/resource/Kigoma_Region,1
+763,Kigogo,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+764,Mukarazi,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+765,Mwayaya,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+766,Rusohoko,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+767,Mwanga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+768,Kigendeka,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+769,Kumhama,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+770,Kabare Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+771,Janda,schema:MedicalClinic,Public,http://dbpedia.org/resource/Kigoma_Region,1
+772,Itaba,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+773,Kidyama Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+774,Murufiti Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+775,Nyenge Health Centre,schema:MedicalClinic,Public,http://dbpedia.org/resource/Kigoma_Region,1
+776,Rusaba,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+777,Chankere,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+778,Mugera,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+779,Kumbanga,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+780,Biturana,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+781,Muhunga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+782,Nabuhima,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+783,Pamila  Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+784,Kanazi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+785,Munanila,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+786,Muzye Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+787,Kitahana,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+788,Nyamidaho Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+789,Kitema Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+790,Kakonko,schema:MedicalClinic,Public,http://dbpedia.org/resource/Kigoma_Region,1
+791,Kigondo Hospital,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+792,Mutala Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+793,Kwaga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+794,Kigembe Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+795,Nyange,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+796,Nyamisivyi,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+797,Rugunga,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+798,Nyaruboza,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+799,Name Of Disp 3,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+800,Kiganza Gov Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+801,Nkundutsi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+802,Nyarugunga,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+803,Bugaga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+804,Bukirilo,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+805,Msimba Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+806,Buhoro Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+807,Kigaga,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+808,Bulombora,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+809,Kaseke Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+810,Kahttp://dbpedia.org/resource/Mara_Region Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+811,Nyabitaka Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+812,Shunguliba Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+813,Kirungu Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+814,Nyarubanda,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+815,Kagezi,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+816,Nyamhoza  Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+817,Mukabuye,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+818,Makere Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+819,Kahabako,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+820,Kumkugwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+821,Nyamabuye,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+822,Kidahwe  Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+823,Kilelema,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+824,Kitagata Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+825,Nyaruyoba,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+826,Ruhita Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+827,Kumsenga,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+828,Bugamba Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+829,Nyamnyusi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,1
+830,Muyama,schema:MedicalClinic,Public,http://dbpedia.org/resource/Kigoma_Region,0
+831,Nyumbigwa Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+832,Titye Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+833,Kizenga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+834,Nyanzige,schema:MedicalClinic,Public,http://dbpedia.org/resource/Kigoma_Region,0
+835,Kasuku  Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+836,Kabingo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+837,Songambele,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+838,Kinazi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+839,Kalela Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+840,Migongo,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+841,Nyankoronko,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+842,Kasongati,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+843,Kitambuka,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+844,Zashe Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+845,Police Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+846,Bangwe,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+847,Kigogwe,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+848,Kibingo,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+849,Nyagwijima Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+850,Mgalaganza Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+851,Nyabibuye,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+852,Nyachenda Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+853,Kagera Nkanda Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+854,Kaguruka Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+855,Rusimbi,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+856,Prisons Force,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+857,Kajana,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+858,Kalalangabo  Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+859,Kiduduye,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+860,Nyamori Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+861,Bunyambo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+862,Kdc,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+863,Kigadye Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+864,Rungwe Mpya Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+865,Businde,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+866,Aksante Nyerere Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+867,Mkabogo,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+868,Kiziba Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+869,Lalambe Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+870,Kanyonza,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+871,Kanembwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+872,Msufini Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+873,Nyarugusu,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+874,Gwarama Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+875,Minyinyi,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+876,Kigina,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+877,Mkongolo,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+878,Kinonko Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+879,Kasuga Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+880,Kigalye Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+881,Muhange,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+882,Gwanumpu,schema:MedicalClinic,Public,http://dbpedia.org/resource/Kigoma_Region,0
+883,Kibuye,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+884,Kazilamihunda,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+885,Zeze Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+886,Mvinza Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+887,Kagongo  Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+888,Kimwanya Health Centre,schema:MedicalClinic,Public,http://dbpedia.org/resource/Kigoma_Region,0
+889,Nyakasanda Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+890,Buhanda,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+891,Katanga,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+892,Uvinza Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+893,Simbo  Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+894,Nkungwe Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+895,Mugunzu Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+896,Mkigo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+897,Mwali Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+898,Kagunga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+899,Nyakayenzi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+900,Mugombe Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+901,Chankabwimba  Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+902,Muyovosi Health Centre,schema:MedicalClinic,Public,http://dbpedia.org/resource/Kigoma_Region,0
+903,Kibwingwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+904,Kiga,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+905,Mahembe Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+906,Mtanga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+907,Marumba Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+908,Nyamtukuza,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+909,Mvungwe Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+910,Rumashi,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+911,Chakulu,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+912,Kasangezi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+913,Matendo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+914,Bubango  Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+915,Songambele Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+916,Mlela,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+917,Lyabusende Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+918,Kirando Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+919,Kandaga,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+920,Chagu,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+921,Ilalangulu Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+922,Igalula Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+923,Kitanga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+924,Mikonko Dsp,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+925,Mwamila Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+926,Sigunga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+927,Nyanza Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+928,Kaparamsenga,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+929,Mugambazi,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+930,Karago Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+931,Kazuramimba,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+932,Sunuka Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+933,Mtego Wa Noti,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+934,Mganza Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+935,Nyanganga,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+936,Katundu,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+937,Nkonkwa Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+938,Magarama,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+939,Nyarugusu Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+940,Sibwesa Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Kigoma_Region,0
+941,Bweri H/centre,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,3
+942,Tegeruka,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,3
+943,Nhangoto,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,3
+944,Magoto,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,2
+945,Ikomo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+946,Tarime Hospital,schema:Hospital,Public,http://dbpedia.org/resource/Mara_Region,2
+947,Murangihealth Centre.,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,2
+948,Kenyamanyori,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+949,Nyambono,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+950,Etaro,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+951,Gamasara,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+952,Butiama Hospital,schema:Hospital,Public,http://dbpedia.org/resource/Mara_Region,2
+953,Kwangwa Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+954,Nata,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,2
+955,Nyasho H/c,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,2
+956,Nyakato Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+957,Wanyele,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+958,Nyakatende,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+959,Bukima,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+960,Machochwe H/c,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,2
+961,Nyamwaga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+962,Mriba,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,2
+963,Nyegina,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+964,Changuge Health,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,2
+965,Makoko,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+966,Rusoli,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+967,Nyinchoka,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+968,Kiemba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+969,Mwisenge Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+970,Surubu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+971,Buhare Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+972,Nyakitono,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+973,Nyasaricho,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,2
+974,Kiongera,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+975,Mtana,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+976,Nyamongo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+977,Kiagata,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,1
+978,Chitare,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+979,Nyantira,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+980,Gibaso,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+981,Mbalibali,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+982,Rung'abure Dispensary.,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+983,Nyamisingisi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+984,Genkuru,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+985,Nyamburi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+986,Sirari,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,1
+987,Nyamatoke,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+988,Sakawa Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+989,Mugumu Rch B,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,1
+990,Kwikuba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+991,Manyamanyama,schema:Hospital,Public,http://dbpedia.org/resource/Mara_Region,1
+992,Busungu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+993,Masinki,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+994,Nyarwana,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,1
+995,Bwai,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+996,Mugango,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+997,Isenye Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+998,Kuruya Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+999,Salama A Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1000,Gantamome,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1001,Iringo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1002,Robanta,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,1
+1003,Bwitengi Dispensary.,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1004,Rwamlimi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1005,Rigicha Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1006,"Rwang""enyi",schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1007,Nyamagaro Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1008,Nansimo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1009,Nyanchabakene,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1010,Lake Victoria Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1011,Bugire,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1012,Utegihealth Centre,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,1
+1013,Nyansurura,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1014,Bubombi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1015,Ronsoti,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1016,Kurugeye,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1017,Itununu Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1018,Masinono,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1019,Iramba,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,1
+1020,Iramba Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1021,Suguti,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1022,Buturi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1023,Rch- A,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1024,Bugunda,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1025,Rwamchanga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1026,Kiriba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1027,Guta Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1028,Kabare Primat,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1029,Park Nyigoti,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1030,Kome,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1031,Sokolabolo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1032,Wegete,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1033,Nyamitita,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1034,Tabora Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1035,Bumera,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1036,Iseresere,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1037,Chereche Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1038,Kinesihealth Centre,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,1
+1039,Bonchugu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1040,Kigera Etuma,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1041,Nyahongo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1042,Karukekere Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1043,Kenyana Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1044,Nyabisaga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1045,Masike Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1046,Gisarya,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1047,Raranya Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1048,Aict Bunda Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1049,Sazira Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1050,Namhula,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1051,Tamau Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1052,Ruhu Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1053,Remung'oroli,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1054,Nyiboko Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1055,http://dbpedia.org/resource/Mara_Regionmbeka Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1056,Salama Kati Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1057,Bukama Sda,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1058,Buruma,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1059,Sarawe Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1060,Boma Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1061,Kunzugu Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1062,Mcharo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1063,Kubiterere,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1064,Mariwanda,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,1
+1065,Kitembele Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1066,Ukombozi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1067,Musati,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1068,Bhoke Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1069,St Claret,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1070,Lukuba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1071,Majimoto,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1072,Bungurere,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1073,Kebanchabancha,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,0
+1074,Matongo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1075,Bugoji,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1076,Panyakoo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1077,Nyamatare Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1078,Kangetutya,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1079,Gusuhi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1080,Magereza,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1081,Nyangere Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1082,Nyasoko,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1083,Merenga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1084,Faraja Primart,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1085,Igundu Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1086,Maburi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1087,Magereza Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1088,Seronera,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1089,Seka,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1090,Magena,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1091,Makoko Jw,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1092,Musoma Police,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1093,Mihale Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1094,Kitagutiti,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1095,Kurusanga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1096,Ochuna Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1097,Ikoma Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1098,Radienya Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1099,Hunyari,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1100,Kemugesi,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mara_Region,0
+1101,Kabasa Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1102,Manchimweru Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1103,Baraki Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1104,Kogaja Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1105,Nyankomogo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1106,Busambara,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1107,Bulamba Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1108,Mwiruruma Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1109,Nyaburundu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1110,Nkerege,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1111,Mekomariro Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1112,Sunsi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1113,Bunda Magereza Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1114,Nafuba Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1115,Nyambori Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1116,Nyamatoke  Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1117,Kibuyi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mara_Region,0
+1118,Bugarika,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1119,Sangabuye,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1120,Nyamagana Hospital,schema:Hospital,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1121,Pasiansi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1122,Nyanzenda Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1123,Busisi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1124,Nyamizeze,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1125,Nyakato,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1126,Nyakalilo,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1127,Igoma,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1128,Katunguru,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1129,Igala Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1130,Misungwi District Hospital,schema:Hospital,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1131,Buhongwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1132,Igogo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1133,Shadi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1134,Iligamba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1135,Mabatini Police Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1136,Kahumulo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1137,Mwawile Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1138,Kisaba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1139,Mkolani Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1140,Bupandwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1141,Lugeye,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1142,Luchili,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1143,Busekeseke,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1144,Buzuruga,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1145,Sima,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,2
+1146,Mwangika,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1147,Magu,schema:Hospital,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1148,Kasisa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1149,Huduma Mashuleni,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1150,Ntulya,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1151,Ngoma A,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1152,Busulwangiri,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1153,Military Hospita http://dbpedia.org/resource/Mwanza_Region,schema:Hospital,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1154,Nansio,schema:Hospital,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1155,Kagunguli,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1156,Buyagu Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1157,Misasi,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1158,Seth Benjamin Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1159,Nyegezi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1160,Mondo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1161,Kalangalala Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1162,Kasenyi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1163,Kasungamile Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1164,Sukuma,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1165,Kafunzo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1166,Fumagile Dispensary,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1167,Ukiriguru,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1168,Makongoro Hc,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1169,?? Bot,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1170,Chamabanda Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1171,Sengerema Health Centre,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1172,Nyamwilolelwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1173,Nyanchenche Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1174,Muriti,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1175,Buzilasoga Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1176,Buhama,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1177,Nyamhongolo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1178,Nyamazugo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1179,Igogwe,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1180,Nyamayinza Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1181,Lubiri,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1182,Nyabumhanda Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1183,Buhindi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1184,Nyehunnge,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1185,Lugata,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1186,Ngudu,schema:Hospital,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1187,Buzegwe,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1188,Kigara,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1189,Mwanangwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1190,Balatogwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1191,Kanyelele,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1192,Mwaniko,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1193,Nyamadoke,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1194,Gambajiga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1195,Ngoma B,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1196,Bukiko,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1197,Tunyenye,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1198,Bugorola,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1199,Kalebezo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1200,Mayuya,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1201,Busisi,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1202,Kirumba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1203,Bwisya,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1204,Malya,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1205,Lushamba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1206,Karume,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1207,Nyerere,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1208,Runere,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1209,Kiloleli Chamwenda,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1210,Luhanga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1211,Mwagala,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1212,Ibongoya,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1213,Nyamatongo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1214,Mbugani Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1215,Bilulumo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1216,Bugembe,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1217,Igokelo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1218,Mahina,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1219,Muluseni,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1220,Butimba Polisi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1221,Nyamtelela,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1222,Bitoto,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1223,Isamilo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1224,Nguge,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1225,Sumbugu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1226,Kabusungu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1227,Kaunda,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1228,Irugwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1229,Igongwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1230,Bukokwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1231,Bulamba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1232,Kahama,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1233,Kamasi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1234,Chifule,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1235,Busumba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1236,Mwamboku,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1237,Busongo,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1238,Ilekanilo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1239,Mwagiligili Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1240,Namagondo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1241,Kiliwi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1242,Bugula,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1243,Nyampande,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1244,Bugisha,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1245,Nyakasungwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1246,Bukonyo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1247,Galu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1248,Isesa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1249,Nyahiti,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1250,Muhula,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1251,Lyoma,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1252,Inala Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1253,Igaka,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1254,Bukumbi Camp Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1255,Mbarika,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1256,Mwampulu Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1257,Nyang'homango Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1258,Mahaha,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1259,Tambukareli,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1260,Mahando Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1261,Hamkoko,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1262,512 Kj Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1263,Murutunguru,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1264,Koromije,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1265,Butimba Ttc,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1266,Igulumuki,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1267,Mwabaluhi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1268,Ngudu Gereza,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1269,Nyamikoma Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1270,Nyaishana Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1271,Buhumbi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,1
+1272,Maisome Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1273,Kayenze Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1274,Juma Kisiwani Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1275,Chanduru,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1276,Ilula,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1277,Mwamazeng0,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1278,Katoma Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1279,Nyamijundu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1280,Mwabilanda,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1281,Kalumo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1282,Sogoso,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1283,Kome,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1284,Nimr,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1285,Kahangara,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1286,Mwangika Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1287,Kagunga,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1288,Ibindo Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1289,Matale,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1290,Sizu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1291,Ng'ombe,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1292,Lumeji,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1293,Idetemya Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1294,Ngomamtimba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1295,Kibitilwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1296,Kigangama,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1297,Nyangalamila,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1298,Lutale,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1299,Busalanga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1300,Rubya Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1301,Mwamabanza,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1302,Mwambola Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1303,Kabila,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1304,Nhobola Disp,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1305,Kisesa,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1306,Milyungu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1307,Ihayabuyaga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1308,Mahiga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1309,Buyogo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1310,Kweru,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1311,Nyanguge,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1312,Nyambuyi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1313,Manawa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1314,Jojiro,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1315,Kongolo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1316,Kikubiji,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1317,Sengerema Secondary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1318,Kishinda,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1319,Nyamanga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1320,Izizimba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1321,Nyanghonge,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1322,Nyamigamba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1323,Walla,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1324,Ijinga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1325,Mwitambu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1326,Ndamhi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1327,Buhunda Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1328,Mwankulwe,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1329,Talaga Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1330,Chibuji,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1331,Trc Marine,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1332,Bujingwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1333,Manay,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1334,Bubinza,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1335,Shishani,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1336,Mwadubi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1337,Busangu Mugu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1338,Sayaka,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1339,Solwe,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1340,Shushi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1341,Welamasonga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1342,Mwashepi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1343,Mwakilyambiti,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1344,Mukunu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1345,Mwang'halanga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1346,Bungulwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1347,Bujashi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1348,Kitongosima,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1349,Mulaga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1350,Nkinga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1351,Kinango,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1352,Maligisu Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1353,Nyamilama,schema:MedicalClinic,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1354,Ilumba,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1355,Malembe,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1356,Isolo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1357,Mwamanga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1358,Kisesa B,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1359,Mwanekeyi Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1360,Busekwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1361,Nyegezi Fisheries,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1362,Mwabulenga,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1363,Igombe,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1364,Igalula Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1365,Mwaging'hi,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1366,Mennonite,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1367,Methodist,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1368,Shilembo,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1369,663 Regt Dispensary,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1370,Bugandando,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1371,Luhorongoma,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1372,Sotta,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1373,Isole,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1374,Chuo Cha Michezo Malya,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1375,Hamuyebe,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1376,Nyasato,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1377,Igekemaja,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1378,Salama Bugatu,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1379,Sese,schema:Pharmacy,Public,http://dbpedia.org/resource/Mwanza_Region,0
+1380,Mwafuguji,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,1
+1381,Meatu ,schema:Hospital,Public,http://dbpedia.org/resource/Simiyu_Region,1
+1382,Mwangudo,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,1
+1383,Itinje,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,1
+1384,Imaleseko,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,1
+1385,Sakasaka,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,1
+1386,Mwabuzo,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,1
+1387,Kabondo,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,1
+1388,Nkoma Health Center,schema:MedicalClinic,Public,http://dbpedia.org/resource/Simiyu_Region,1
+1389,Mwandoya,schema:MedicalClinic,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1390,Mbugayabanhya,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1391,Mwamanongu,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1392,Mwandu Itinje,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1393,Mwamatiga,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1394,Mwabagimu,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1395,Lingeka,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1396,Bukundi ,schema:MedicalClinic,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1397,Mwabalebi,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1398,Paji,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1399,Mwambiti,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1400,Kisesa,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1401,Mwabuma,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1402,Mwamanimba,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1403,Mwashata,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1404,Mwamishali,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1405,Isengwa,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1406,Nyanza,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1407,Mwabulutago ,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1408,Mwanjolo,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1409,Mwabagalu,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1410,Bulyashi,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1411,Mwabusalu,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1412,Makao,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1413,Mwageni,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1414,Chambala,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1415,Ng'hoboko,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1416,Mwamanoni,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1417,Lubiga,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1418,Longalonhiga,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1419,Semu,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1420,Mwamalole,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1421,Nkoma.,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1422,Mwakipopo,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1423,Jinamo,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1424,Mbalagane,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1425,Minyanda,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1426,Mwangikulu,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1427,Mbushi,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1428,Mwakaluba,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1429,Sungu,schema:Pharmacy,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1430,Ikindilo Health Center,schema:MedicalClinic,Public,http://dbpedia.org/resource/Simiyu_Region,0
+1431,Zagayu Health Center,schema:MedicalClinic,Public,http://dbpedia.org/resource/Simiyu_Region,0
