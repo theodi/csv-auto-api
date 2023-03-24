@@ -213,6 +213,8 @@ function handleRequest(req,res) {
                     key = "@" + key.substring(1);
                     value = ld["@context"]["@base"] + value;
                     output[key] = value;
+                } else if (key == "id") {
+                    output['@'+key] = value;
                 } else if (value.substring(0,4) == "http" || value.indexOf(":") > 0) {
                     output[key] = { "@id" : value }
                 } else {
