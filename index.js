@@ -232,9 +232,16 @@ function handleRequest(req,res) {
 /*
  * Set the available REST endpoints and how to handle them
  */
+/*
 app.get('/', function(req,res) { handleRequest(req,res); });
 app.get('/:column_heading/:value.:ext', function(req,res) { handleRequest(req,res); });
 app.get('/:column_heading/:value', function(req,res) { handleRequest(req,res); });
+*/
+app.get('/', function(req,res) { res.redirect(301,'https://learndata.info'); });
+app.get('/:prefix', function(req,res) { handleRequest(req,res); });
+app.get('/:prefix/', function(req,res) { handleRequest(req,res); });
+app.get('/:prefix/:column_heading/:value.:ext', function(req,res) { handleRequest(req,res); });
+app.get('/:prefix/:column_heading/:value', function(req,res) { handleRequest(req,res); });
 
 /*
  * Start the app!
