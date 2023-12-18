@@ -1,8 +1,7 @@
-const getCSV = require('get-csv'); // Library required to load the csv
 const express = require('express'); // Library than creates and manages REST requests
 const ejs = require('ejs'); // Library to render HTML pages for web browsers
-var json2csv = require('json2csv'); // Library to create CSV for output
 var fs = require('fs');
+const csv = require('csv-parser');
 
 const app = express(); // Initialise the REST app
 
@@ -11,6 +10,7 @@ var metadata = {};
 var context = {};
 var schema = {};
 var ld = {};
+const database = {};
 
 /*
  * Ensure that the user has defined a csv file to load!
@@ -79,29 +79,41 @@ function constructLD() {
             }
         }
     });
-}   
+}
 
 /*
  * Load the metadata
  */
 function loadMetadata(file) {
     console.log(file + " loading metadata");
-    getCSV(file,function(err,data) {
-        data.forEach(function(item) {
-            if (item.key.substring(0,1) == "$") {
-                if (item.key == "$base" || item.key == "$vocab") {
-                    item.key = "@" + item.key.substring(1);
-                } else {
-                    item.key = item.key.substring(1);
-                }
-                context[item.key] = item.value;    
-            } else if (item.value.substring(0,4) == "http") {
-                metadata[item.key] = { "@id": item.value };
-            } else {
-                metadata[item.key] = item.value;
+    let firstDataRowSkipped = false;
+
+    fs.createReadStream(file)
+        .pipe(csv({ headers: ['key', 'value'] })) // Specify headers
+        .on('data', (item) => {
+            if (!firstDataRowSkipped) {
+                // Skip the first data row (header)
+                firstDataRowSkipped = true;
+                return;
             }
+            var key = item.key; // No need to trim here
+
+            if (key.substring(0, 1) == "$") {
+                if (key == "$base" || key == "$vocab") {
+                    key = "@" + key.substring(1);
+                } else {
+                    key = key.substring(1);
+                }
+                context[key] = item.value;
+            } else if (item.value.substring(0, 4) == "http") {
+                metadata[key] = { "@id": item.value };
+            } else {
+                metadata[key] = item.value;
+            }
+        })
+        .on('end', () => {
+            console.log(file + " loaded metadata");
         });
-    });
 }
 
 /*
@@ -109,30 +121,59 @@ function loadMetadata(file) {
  */
 function loadSchema(file) {
     console.log(file + " loading schema");
-    getCSV(file,function(err,data) {
-        data.forEach(function(item) {
-            var object = {};
+    let firstDataRowSkipped = false;
+
+    fs.createReadStream(file)
+        .pipe(csv({ headers: ['property', 'key', 'value'] })) // Specify headers
+        .on('data', (item) => {
+            if (!firstDataRowSkipped) {
+                // Skip the first data row (header)
+                firstDataRowSkipped = true;
+                return;
+            }
+            const object = {};
             object[item.key] = item.value;
             if (!schema[item.property]) {
                 schema[item.property] = [];
             }
             schema[item.property].push(object);
+        })
+        .on('end', () => {
+            console.log(file + " loaded schema");
         });
-    });
 }
 
 /*
  * The function that loads the file into our rows object
  */
-function loadFile(file) {
-	console.log(file + " loading...");
-	getCSV(file, function(err,data) {
-	    rows = rows.concat(data);
-	    console.log(file + " loaded");
-	});
+function loadFile(file, input) {
+    console.log(file + " loading...");
+    if (!database[input]) {
+        database[input] = [];
+    }
+
+    rows = database[input];
+
+    fs.createReadStream(file)
+        .pipe(csv())
+        .on('data', (data) => {
+
+            const updatedData = {};
+            for (const key in data) {
+                const cleanedKey = key.trim();
+                updatedData[cleanedKey] = data[key];
+            }
+            rows.push(updatedData);
+
+           //rows.push(data);
+        })
+        .on('end', () => {
+            console.log(file + " loaded");
+        });
 }
 
-/* 
+
+/*
  * Function to handle the users REST request
  */
 function handleRequest(req,res) {
@@ -169,6 +210,7 @@ function handleRequest(req,res) {
     }
     // Filter the data according to the request to only contain relevant rows
     result = rows;
+    console.log(rows);
     result = result.filter(function(item) {
     for(var key in filter) {
         if(item[key] === undefined || item[key] != filter[key])
@@ -197,7 +239,7 @@ function handleRequest(req,res) {
     // CSV, JSON or by default HTML (web page)
     if (ext == "csv") {
         res.set('Content-Type', 'text/csv');
-        res.send(json2csv({ data: result }));
+        res.send(json2csv(result));
     } else if (ext == "json") {
         res.set('Content-Type', 'application/json');
         res.send(JSON.stringify(result,null,4));
@@ -221,7 +263,7 @@ function handleRequest(req,res) {
                     output[key] = value;
                 }
             }
-            toSend["@graph"].push(output);    
+            toSend["@graph"].push(output);
         });
         res.send(JSON.stringify(toSend,null,4));
     } else {
@@ -230,6 +272,26 @@ function handleRequest(req,res) {
         });
     }
 };
+
+// Custom function to convert JSON data to CSV
+function jsonToCsv(jsonData) {
+    if (jsonData.length === 0) {
+        return '';
+    }
+
+    const headers = Object.keys(jsonData[0]);
+    const csvData = [headers.join(',')];
+
+    jsonData.forEach((item) => {
+        const row = headers.map((header) => {
+            const value = item[header] || '';
+            return `"${value}"`;
+        });
+        csvData.push(row.join(','));
+    });
+
+    return csvData.join('\n');
+}
 
 /*
  * Set the available REST endpoints and how to handle them
