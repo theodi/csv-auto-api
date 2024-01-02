@@ -75,7 +75,7 @@ async function loadFileToMongo(file, collectionName) {
 
         await client.close();
         console.log('connection closed')
-    } catch (err) {
+    } catch (error) {
         console.error('Error:', error);
         client.close(); // Close the connection in case of an error
         console.log('Connection closed due to error');
