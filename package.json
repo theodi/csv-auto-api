@@ -1,6 +1,6 @@
 {
   "name": "csv-auto-api",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "An automatic API for CSV",
   "main": "index.js",
   "repository": {
@@ -14,8 +14,11 @@
   },
   "homepage": "https://github.com/davetaz/csv-auto-api#readme",
   "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.3.1",
     "ejs": "^3.1.9",
     "express": "^4.15.3",
-    "csv-parser": "^3.0.0"
+    "fast-csv": "^4.3.6",
+    "mongodb": "^6.3.0"
   }
 }

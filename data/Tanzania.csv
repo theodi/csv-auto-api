@@ -1,0 +1,1432 @@
+ID,Health facility name,Health facility type,Health facility owner,Region,Star Rating
+1,Bugelenga,Dispensary,Not Specified,Geita,1
+2,St Pio,Dispensary,Not Specified,Geita,1
+3,Mabamba,Health Centre,Not Specified,Kigoma,2
+4,Kifura,Health Centre,Not Specified,Kigoma,1
+5,Matyazo,Health Centre,Not Specified,Kigoma,1
+6,Bitale,Health Centre,Not Specified,Kigoma,1
+7,Mgambo Health Centre,Health Centre,Not Specified,Kigoma,1
+8,Nguruka Health Centre,Health Centre,Not Specified,Kigoma,1
+9,Mwamgongo,Health Centre,Not Specified,Kigoma,1
+10,Kasaka,Health Centre,Not Specified,Kigoma,0
+11,Malagarasi Dispensary,Dispensary,Not Specified,Kigoma,0
+12,Kashuguru Dispensary,Dispensary,Not Specified,Kigoma,0
+13,Kalenge Dispensary,Dispensary,Not Specified,Kigoma,0
+14,Mwakizega Dispensary,Dispensary,Not Specified,Kigoma,0
+15,Ilagala Health Centre,Health Centre,Not Specified,Kigoma,0
+16,Uvinza Health Centre,Health Centre,Not Specified,Kigoma,0
+17,Katumbi Dispensary,Dispensary,Not Specified,Kigoma,0
+18,Kalya Dispensary,Dispensary,Not Specified,Kigoma,0
+19,Basanza Dispensary,Dispensary,Not Specified,Kigoma,0
+20,Name Of Disp 3,Dispensary,Not Specified,Kigoma,0
+21,Nyamika,Dispensary,Not Specified,Mara,2
+22,Bisumwa,Dispensary,Not Specified,Mara,2
+23,Kiabakari Giorgio Fransat,Dispensary,Not Specified,Mara,2
+24,Ryamisanga,Dispensary,Not Specified,Mara,2
+25,Wegero,Dispensary,Not Specified,Mara,2
+26,Mwanzaburiga,Dispensary,Not Specified,Mara,2
+27,Kyawazarwe,Dispensary,Not Specified,Mara,1
+28,Buhemba,Dispensary,Not Specified,Mara,1
+29,Rwamkoma Jkt,Dispensary,Not Specified,Mara,1
+30,Ryamgabo,Dispensary,Not Specified,Mara,1
+31,Butuguri,Dispensary,Not Specified,Mara,1
+32,Kiabakari Jwtz,Dispensary,Not Specified,Mara,1
+33,Masurura,Dispensary,Not Specified,Mara,1
+34,Ikizuhealth Centre,Health Centre,Not Specified,Mara,1
+35,Nyasirori,Dispensary,Not Specified,Mara,1
+36,Nyamisisi,Dispensary,Not Specified,Mara,1
+37,Kizaru,Dispensary,Not Specified,Mara,1
+38,Magana,Dispensary,Not Specified,Mara,1
+39,Kasahunga H/c,Health Centre,Not Specified,Mara,1
+40,Nyankanga,Dispensary,Not Specified,Mara,1
+41,Mwibagi,Dispensary,Not Specified,Mara,1
+42,Bunda H/c,Health Centre,Not Specified,Mara,1
+43,Nyabange,Dispensary,Not Specified,Mara,1
+44,Kamugegi,Dispensary,Not Specified,Mara,1
+45,Nyabange,Dispensary,Not Specified,Mara,1
+46,Muriaza,Dispensary,Not Specified,Mara,1
+47,Muriaza Dispensary,Dispensary,Not Specified,Mara,1
+48,Sir0risimba,Dispensary,Not Specified,Mara,1
+49,Kamgendi,Dispensary,Not Specified,Mara,0
+50,Rwamkoma,Dispensary,Not Specified,Mara,0
+51,Mirwa,Dispensary,Not Specified,Mara,0
+52,Kasuguti,Health Centre,Not Specified,Mara,0
+53,Baranga,Dispensary,Not Specified,Mara,0
+54,Kisorya,Health Centre,Not Specified,Mara,0
+55,Mugeta,Health Centre,Not Specified,Mara,0
+56,Nyatwali H/c,Health Centre,Not Specified,Mara,0
+57,Busegwe,Dispensary,Not Specified,Mara,0
+58,Busegwe Sda,Dispensary,Not Specified,Mara,0
+59,Kitalamanka,Dispensary,Not Specified,Mara,0
+60,Kiabakari Magereza,Dispensary,Not Specified,Mara,0
+61,Fumagila,Dispensary,Not Specified,Mwanza,2
+62,Tmrc-urafiki,Health Centre,Not Specified,Mwanza,1
+63,Kaseni,Dispensary,Not Specified,Mwanza,1
+64,Murutilima,Dispensary,Not Specified,Mwanza,1
+65,Gereza Butimba,Dispensary,Not Specified,Mwanza,1
+66,Huduma Dispensary,Dispensary,Not Specified,Mwanza,1
+67,Bukondo,Dispensary,Not Specified,Mwanza,0
+68,Mahembe Dispensary,Dispensary,Not Specified,Simiyu,1
+69,Mwamapalala Dispensary,Dispensary,Not Specified,Simiyu,1
+70,Lugulu Dispensary,Dispensary,Not Specified,Simiyu,1
+71,Zanzui Dispensary,Dispensary,Not Specified,Simiyu,1
+72,Isanga Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+73,Majahida Aict Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+74,Muhoja Kmt Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+75,Mwakibuga Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+76,Nyangokolwa Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+77,Nyaumata Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+78,Old Maswa Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+79,Ngulyati Health Centre,Health Centre,Not Specified,Simiyu,1
+80,Bariadi Town Council  ,Hospital,Not Specified,Simiyu,1
+81,Maswa,Hospital,Not Specified,Simiyu,1
+82,Songambele Rc,Health Centre,Not Specified,Simiyu,1
+83,Nkololo Dispensary,Dispensary,Not Specified,Simiyu,1
+84,Masewa,Dispensary,Not Specified,Simiyu,1
+85,Igegu,Dispensary,Not Specified,Simiyu,1
+86, Matongo Dispensary,Dispensary,Not Specified,Simiyu,1
+87,Kasoli,Dispensary,Not Specified,Simiyu,1
+88,Dutwa Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+89,Banemhi,Dispensary,Not Specified,Simiyu,1
+90,Mwasinasi Dispensary,Dispensary,Not Specified,Simiyu,1
+91,Mwasubuya Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+92,Sakwe Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+93,Mwamlapa Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+94,Mwanangi,Dispensary,Not Specified,Simiyu,1
+95,Mwanhale,Dispensary,Not Specified,Simiyu,1
+96,Mwasamba,Dispensary,Not Specified,Simiyu,1
+97,Malili,Dispensary,Not Specified,Simiyu,1
+98,Mungu Kwanza,Dispensary,Not Specified,Simiyu,1
+99,Kalemera,Dispensary,Not Specified,Simiyu,1
+100,Bulima,Dispensary,Not Specified,Simiyu,1
+101,Nassa,Health Centre,Not Specified,Simiyu,1
+102,Lalago,Health Centre,Not Specified,Simiyu,1
+103,Malampaka,Health Centre,Not Specified,Simiyu,1
+104,Badi,Dispensary,Not Specified,Simiyu,1
+105,Malita,Dispensary,Not Specified,Simiyu,1
+106,Budekwa Dispensary,Dispensary,Not Specified,Simiyu,1
+107,Bugalama Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+108,Masanwa Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+109,Sangamwalugesha,Dispensary,Not Specified,Simiyu,1
+110,Bushashi Dipensary,Dispensary,Not Specified,Simiyu,1
+111,Ipililo Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+112,Mwabulimbu,Dispensary,Not Specified,Simiyu,1
+113,Maswa Sec ,Dispensary,Not Specified,Simiyu,1
+114,Mwabagalu Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+115,Mwashegeshi  Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+116,Wazazi Binza Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+117,Mpindo Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+118,Igunya Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+119,Jija,Dispensary,Not Specified,Simiyu,1
+120,Nyashimba Dispensaryensary,Dispensary,Not Specified,Simiyu,1
+121,Sagati Dispensary,Dispensary,Not Specified,Simiyu,0
+122,Mwaswale Dispensary,Dispensary,Not Specified,Simiyu,0
+123,Nangale Dispensary,Dispensary,Not Specified,Simiyu,0
+124,Migato Dispensary,Dispensary,Not Specified,Simiyu,0
+125,Mwabuki Dispensary,Dispensary,Not Specified,Simiyu,0
+126,Habiya,Dispensary,Not Specified,Simiyu,0
+127,Bumera Dispensary,Dispensary,Not Specified,Simiyu,0
+128,Gaswa Dispensary,Dispensary,Not Specified,Simiyu,0
+129,Mhunze Dispensary,Dispensary,Not Specified,Simiyu,0
+130,Lagangabilili Dispensary,Dispensary,Not Specified,Simiyu,0
+131,Nanga Dispensary,Dispensary,Not Specified,Simiyu,0
+132,Kinamweli Dispensary,Dispensary,Not Specified,Simiyu,0
+133,Sunzula Dispensary,Dispensary,Not Specified,Simiyu,0
+134,Sawida Dispensary,Dispensary,Not Specified,Simiyu,0
+135,Mwanunui Dispensary,Dispensary,Not Specified,Simiyu,0
+136,Bunamala  Mbugani Dispensary,Dispensary,Not Specified,Simiyu,0
+137,Nyamalapa Dispensary,Dispensary,Not Specified,Simiyu,0
+138,Wazazi Dispensary,Dispensary,Not Specified,Simiyu,0
+139,U.W.T Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+140,Kashishi Dispensary,Dispensary,Not Specified,Simiyu,0
+141,Ngeme Dispensary,Dispensary,Not Specified,Simiyu,0
+142,Chinamili Dispensary,Dispensary,Not Specified,Simiyu,0
+143,Nkuyu Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+144,Mitobo Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+145,Longalombogo Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+146,Bunamhala Chuoni Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+147,Bupandagila Sda Dispensary,Dispensary,Not Specified,Simiyu,0
+148,Dr. Maduhu Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+149,Dr. Mwijage Clinic,Dispensary,Not Specified,Simiyu,0
+150,Guduwe Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+151,Kilulu Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+152,Matale Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+153,Mwanaleguma Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+154,Bariadi Magereza,Dispensary,Not Specified,Simiyu,0
+155,Ditima Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+156,Muungano Health Centre,Health Centre,Not Specified,Simiyu,0
+157,Byuna ,Health Centre,Not Specified,Simiyu,0
+158,Gambosi,Dispensary,Not Specified,Simiyu,0
+159,Ihusi Dispensaryensary ,Dispensary,Not Specified,Simiyu,0
+160,Nyawa Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+161,Halawa,Dispensary,Not Specified,Simiyu,0
+162,Ng'arita,Dispensary,Not Specified,Simiyu,0
+163,Ikungulyambesi Dispensaryensary ,Dispensary,Not Specified,Simiyu,0
+164,Gibeshi Dispensaryensary ,Dispensary,Not Specified,Simiyu,0
+165,Lulayu,Dispensary,Not Specified,Simiyu,0
+166,Nyamikoma Dispensary,Dispensary,Not Specified,Simiyu,0
+167,Nyamswa Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+168,Gasuma ,Dispensary,Not Specified,Simiyu,0
+169,Sapiwi ,Dispensary,Not Specified,Simiyu,0
+170,Dutwa Wazazi ,Dispensary,Not Specified,Simiyu,0
+171,Miswaki,Dispensary,Not Specified,Simiyu,0
+172,Ikungulyabashashi,Dispensary,Not Specified,Simiyu,0
+173,Igaganulwa Aict Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+174,Nyaluhande,Dispensary,Not Specified,Simiyu,0
+175,Shigala,Dispensary,Not Specified,Simiyu,0
+176,Ngasamo,Dispensary,Not Specified,Simiyu,0
+177,Kijereshi,Dispensary,Not Specified,Simiyu,0
+178,Gininiga,Dispensary,Not Specified,Simiyu,0
+179,Mwamigongwa,Dispensary,Not Specified,Simiyu,0
+180,Lutubiga,Dispensary,Not Specified,Simiyu,0
+181,Lamadi ,Dispensary,Not Specified,Simiyu,0
+182,Menonite ,Dispensary,Not Specified,Simiyu,0
+183,Lukungu,Dispensary,Not Specified,Simiyu,0
+184,Kiloleli,Dispensary,Not Specified,Simiyu,0
+185,Ijiha,Dispensary,Not Specified,Simiyu,0
+186,Mwamjulila,Dispensary,Not Specified,Simiyu,0
+187,Mwamagigisi,Dispensary,Not Specified,Simiyu,0
+188,Bushigwamala,Dispensary,Not Specified,Simiyu,0
+189,Nyamikoma,Dispensary,Not Specified,Simiyu,0
+190,Badugu,Dispensary,Not Specified,Simiyu,0
+191,Igalukilo,Health Centre,Not Specified,Simiyu,0
+192,Mkula,Hospital,Not Specified,Simiyu,0
+193,Mwasayi,Health Centre,Not Specified,Simiyu,0
+194,Mwagala Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+195,Dodoma,Dispensary,Not Specified,Simiyu,0
+196,Kinamwigulu,Dispensary,Not Specified,Simiyu,0
+197,Sayusayu  Dispensary,Dispensary,Not Specified,Simiyu,0
+198,Ikulilo Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+199,Shinyanga Mwenge Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+200,Mwamitumai Dispensary,Dispensary,Not Specified,Simiyu,0
+201,Isanga Dispensary,Dispensary,Not Specified,Simiyu,0
+202,Dulung'wa Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+203,Kadoto,Dispensary,Not Specified,Simiyu,0
+204,Ilamata,Dispensary,Not Specified,Simiyu,0
+205,Mwabayanda Dispensary,Dispensary,Not Specified,Simiyu,0
+206,Gula Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+207,Sulu,Dispensary,Not Specified,Simiyu,0
+208,Mwabomba,Dispensary,Not Specified,Simiyu,0
+209,Seng'wa Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+210,Senani Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+211,Mwamanenge Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+212,Nguliguli,Dispensary,Not Specified,Simiyu,0
+213,Isageng'he  Dispensary,Dispensary,Not Specified,Simiyu,0
+214,Masela,Dispensary,Not Specified,Simiyu,0
+215,Malya Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+216,Mwang'honoli,Dispensary,Not Specified,Simiyu,0
+217,Shishiyu Dispensaryensary,Dispensary,Not Specified,Simiyu,0
+218,Zebeya Dispensary,Dispensary,Not Specified,Simiyu,0
+219,Bochi,Hospital,Private,Dar es Salaam,3
+220,Mikocheni Mission,Hospital,Private,Dar es Salaam,3
+221,Moyo Safi Wa Maria,Health Centre,Private,Dar es Salaam,3
+222,Tmj,Hospital,Private,Dar es Salaam,2
+223,Masana,Hospital,Private,Dar es Salaam,2
+224,Mbweni Mission,Hospital,Private,Dar es Salaam,2
+225,Salaaman,Hospital,Private,Dar es Salaam,2
+226,Sanitas,Hospital,Private,Dar es Salaam,2
+227,Edward Michaudi,Health Centre,Private,Dar es Salaam,2
+228,Aar Chato,Health Centre,Private,Dar es Salaam,2
+229,Marie Stopes- Kimara,Dispensary,Private,Dar es Salaam,2
+230,Arafa Mwananchi,Dispensary,Private,Dar es Salaam,2
+231,Ben Mico,Dispensary,Private,Dar es Salaam,2
+232,Bj Siso Mmari,Dispensary,Private,Dar es Salaam,2
+233,Kitea,Dispensary,Private,Dar es Salaam,2
+234,Omek,Dispensary,Private,Dar es Salaam,2
+235,Aar Sinza,Dispensary,Private,Dar es Salaam,2
+236,Upendo Ikunda,Dispensary,Private,Dar es Salaam,2
+237,Pk,Dispensary,Private,Dar es Salaam,2
+238,St. Brendan,Dispensary,Private,Dar es Salaam,2
+239,Faraja,Dispensary,Private,Dar es Salaam,2
+240,Aar Tegeta,Dispensary,Private,Dar es Salaam,2
+241,Mafarasi Kigogo,Dispensary,Private,Dar es Salaam,2
+242,Cignat,Dispensary,Private,Dar es Salaam,2
+243,Kinondoni B,Dispensary,Private,Dar es Salaam,2
+244,Kibangu Mission,Hospital,Private,Dar es Salaam,1
+245,Kinondoni,Hospital,Private,Dar es Salaam,1
+246,Sali,Hospital,Private,Dar es Salaam,1
+247,Marie Stopes Mwenge,Hospital,Private,Dar es Salaam,1
+248,Msasani Peninsula,Hospital,Private,Dar es Salaam,1
+249,Mama Privatema,Hospital,Private,Dar es Salaam,1
+250,Mikumi,Hospital,Private,Dar es Salaam,1
+251,Ekenywa,Hospital,Private,Dar es Salaam,1
+252,Imtu,Hospital,Private,Dar es Salaam,1
+253,St. Monica,Hospital,Private,Dar es Salaam,1
+254,Mount Ukombozi,Hospital,Private,Dar es Salaam,1
+255,Neema,Health Centre,Private,Dar es Salaam,1
+256,Luguruni H/c,Health Centre,Private,Dar es Salaam,1
+257,Sisa,Health Centre,Private,Dar es Salaam,1
+258,London,Health Centre,Private,Dar es Salaam,1
+259,Mico Sinza,Health Centre,Private,Dar es Salaam,1
+260,Agha Khan,Health Centre,Private,Dar es Salaam,1
+261,Tms Mbezi,Health Centre,Private,Dar es Salaam,1
+262,Mna Dispensary,Dispensary,Private,Dar es Salaam,1
+263,Salama 1- Baruti,Dispensary,Private,Dar es Salaam,1
+264,Gati Dispensary,Dispensary,Private,Dar es Salaam,1
+265,Kh,Dispensary,Private,Dar es Salaam,1
+266,Arafa Kona,Dispensary,Private,Dar es Salaam,1
+267,Arafa Mbezi,Dispensary,Private,Dar es Salaam,1
+268,Arafa Ubuprivate,Dispensary,Private,Dar es Salaam,1
+269,Huruma Kimara,Dispensary,Private,Dar es Salaam,1
+270,Ics St. Esther,Dispensary,Private,Dar es Salaam,1
+271,Kg Afya Care,Dispensary,Private,Dar es Salaam,1
+272,Kimara Central,Dispensary,Private,Dar es Salaam,1
+273,Kombe,Dispensary,Private,Dar es Salaam,1
+274,Marie Stopes - Mabibo,Dispensary,Private,Dar es Salaam,1
+275,Mico Darajani,Dispensary,Private,Dar es Salaam,1
+276,Nurrhaifo Mawimbi,Dispensary,Private,Dar es Salaam,1
+277,Mafarasi Muleba,Dispensary,Private,Dar es Salaam,1
+278,Azania,Dispensary,Private,Dar es Salaam,1
+279,Taifo Mwembechai,Dispensary,Private,Dar es Salaam,1
+280,Kodepa Charitable Tandale,Dispensary,Private,Dar es Salaam,1
+281,Eureka,Dispensary,Private,Dar es Salaam,1
+282,Amen,Dispensary,Private,Dar es Salaam,1
+283,Tip Top,Dispensary,Private,Dar es Salaam,1
+284,Kigogo Moravian,Dispensary,Private,Dar es Salaam,1
+285,Dr. Hiza,Dispensary,Private,Dar es Salaam,1
+286,Arafa Huruma,Dispensary,Private,Dar es Salaam,1
+287,New Tegeta,Dispensary,Private,Dar es Salaam,1
+288,Tumaini Group,Dispensary,Private,Dar es Salaam,1
+289,Antonio Verna,Dispensary,Private,Dar es Salaam,1
+290,Red Cross Humanitarian,Dispensary,Private,Dar es Salaam,1
+291,Arafa Vigae,Dispensary,Private,Dar es Salaam,1
+292,Mauto,Dispensary,Private,Dar es Salaam,1
+293,Msisiri,Dispensary,Private,Dar es Salaam,1
+294,New Msasani,Dispensary,Private,Dar es Salaam,1
+295,Samaritan,Dispensary,Private,Dar es Salaam,1
+296,Mashuda,Dispensary,Private,Dar es Salaam,1
+297,Vijana Hostel,Dispensary,Private,Dar es Salaam,1
+298,Euro,Dispensary,Private,Dar es Salaam,1
+299,Kam,Dispensary,Private,Dar es Salaam,1
+300,Mmr,Dispensary,Private,Dar es Salaam,1
+301,Fm Cqpu,Dispensary,Private,Dar es Salaam,1
+302,Bonde La Mpunga,Dispensary,Private,Dar es Salaam,1
+303,Ultimate Security,Dispensary,Private,Dar es Salaam,1
+304,Mcdit-dispensary Baruti,Dispensary,Private,Dar es Salaam,1
+305,Mico Aat,Dispensary,Private,Dar es Salaam,1
+306,Mico Kimara Dispensary,Dispensary,Private,Dar es Salaam,1
+307,Nuraifo Dispensary,Dispensary,Private,Dar es Salaam,1
+308,Mikuru Health Care,Dispensary,Private,Dar es Salaam,1
+309,Kipasika,Dispensary,Private,Dar es Salaam,1
+310,Life Sign,Dispensary,Private,Dar es Salaam,1
+311,Kinae,Dispensary,Private,Dar es Salaam,1
+312,Baraka Mbezi,Dispensary,Private,Dar es Salaam,1
+313,Kunduchi Beach Health Service Ltd,Dispensary,Private,Dar es Salaam,1
+314,Taifo Mbezi,Dispensary,Private,Dar es Salaam,1
+315,Wema,Dispensary,Private,Dar es Salaam,1
+316,Prime Care Makabe,Dispensary,Private,Dar es Salaam,1
+317,Father Triest,Dispensary,Private,Dar es Salaam,1
+318,Arafat Basna,Dispensary,Private,Dar es Salaam,1
+319,Nsilo,Dispensary,Private,Dar es Salaam,1
+320,Kelei,Dispensary,Private,Dar es Salaam,1
+321,Arafa Uzuri,Dispensary,Private,Dar es Salaam,1
+322,Tm,Dispensary,Private,Dar es Salaam,1
+323,Megra,Dispensary,Private,Dar es Salaam,1
+324,Mico Ndugumbi,Dispensary,Private,Dar es Salaam,1
+325,Tag Mabibo,Dispensary,Private,Dar es Salaam,1
+326,Tayma Tandale,Dispensary,Private,Dar es Salaam,1
+327,Mico Midizini,Dispensary,Private,Dar es Salaam,1
+328,Kwezi,Dispensary,Private,Dar es Salaam,1
+329,Arafa Charitable,Dispensary,Private,Dar es Salaam,1
+330,Taifo Niki,Dispensary,Private,Dar es Salaam,1
+331,Mico Salasala,Dispensary,Private,Dar es Salaam,1
+332,Tegeta Mission,Dispensary,Private,Dar es Salaam,1
+333,Aif Huduma,Dispensary,Private,Dar es Salaam,1
+334,Dr. Mhina,Dispensary,Private,Dar es Salaam,1
+335,Keto,Dispensary,Private,Dar es Salaam,1
+336,St. Theresa,Dispensary,Private,Dar es Salaam,1
+337,Aar Wazo,Dispensary,Private,Dar es Salaam,1
+338,Taifo Tegeta,Dispensary,Private,Dar es Salaam,1
+339,Kaja,Dispensary,Private,Dar es Salaam,1
+340,Kisiwani,Dispensary,Private,Dar es Salaam,1
+341,Mico Mars,Dispensary,Private,Dar es Salaam,1
+342,Mico Annex,Dispensary,Private,Dar es Salaam,1
+343,Mico Mkwajuni,Dispensary,Private,Dar es Salaam,1
+344,St. Benedict,Dispensary,Private,Dar es Salaam,1
+345,Family Care,Dispensary,Private,Dar es Salaam,1
+346,Furaha,Dispensary,Private,Dar es Salaam,1
+347,Sundarya,Dispensary,Private,Dar es Salaam,1
+348,St. Clara Haule,Dispensary,Private,Dar es Salaam,1
+349,Sino,Hospital,Private,Dar es Salaam,0
+350,Istiqama,Health Centre,Private,Dar es Salaam,0
+351,Marise Dispensary,Dispensary,Private,Dar es Salaam,0
+352,Mico Mabibo Farasi,Dispensary,Private,Dar es Salaam,0
+353,Afya Care Sinza,Dispensary,Private,Dar es Salaam,0
+354,Mico Tandale,Dispensary,Private,Dar es Salaam,0
+355,Sun,Dispensary,Private,Dar es Salaam,0
+356,Honest,Dispensary,Private,Dar es Salaam,0
+357,Meigy,Dispensary,Private,Dar es Salaam,0
+358,Nuraifo,Dispensary,Private,Dar es Salaam,0
+359,Pangasenga,Dispensary,Private,Dar es Salaam,0
+360,Taifo Disp,Dispensary,Private,Dar es Salaam,0
+361,Afya Care Manzese,Dispensary,Private,Dar es Salaam,0
+362,Tks,Dispensary,Private,Dar es Salaam,0
+363,K&b Mivumoni,Dispensary,Private,Dar es Salaam,0
+364,Arafa Boko,Dispensary,Private,Dar es Salaam,0
+365,Kodepa,Dispensary,Private,Dar es Salaam,0
+366,Geita Gold Mine,Health Centre,Private,Geita,2
+367,Upendo Health Center,Health Centre,Private,Geita,2
+368,Waja,Hospital,Private,Geita,1
+369,Sakamu,Dispensary,Private,Geita,1
+370,Kasamwa Sda,Dispensary,Private,Geita,1
+371,Iponya,Dispensary,Private,Geita,1
+372,Bwelwa Dispensary,Dispensary,Private,Geita,1
+373,Ihega Aict,Dispensary,Private,Geita,1
+374,Kabuhima Mennonite,Dispensary,Private,Geita,1
+375,Samartan,Health Centre,Private,Geita,1
+376,Lisabon,Dispensary,Private,Geita,1
+377,Wazazi Nkomo,Dispensary,Private,Geita,1
+378,St Peter Dispensary,Dispensary,Private,Geita,1
+379,Lubeho Dispensary,Dispensary,Private,Geita,1
+380,Wazazi Lugunga Dispensary,Dispensary,Private,Geita,1
+381,Mkulima Dispensery,Dispensary,Private,Geita,1
+382,Bakwata Shamsia Buseresere,Dispensary,Private,Geita,1
+383,Boko Tcmc Dispensary,Dispensary,Private,Geita,0
+384,Wazazi Isebya,Dispensary,Private,Geita,0
+385,Nyasembe,Dispensary,Private,Geita,0
+386,Nyumbani,Dispensary,Private,Geita,0
+387,Msonga Wazazi,Dispensary,Private,Geita,0
+388,Nyabugera,Dispensary,Private,Geita,0
+389,Aic Kabiga Disp,Dispensary,Private,Geita,0
+390,Bakwata Huruma,Dispensary,Private,Geita,0
+391,Kmt Muganza,Dispensary,Private,Geita,0
+392,Kharumwa Jumuiya Ya Wazazi,Dispensary,Private,Geita,0
+393,Muungano Health Centre,Health Centre,Private,Geita,0
+394,Sisi Kwa Sisi,Dispensary,Private,Geita,0
+395,Wazazi Dillu,Dispensary,Private,Geita,0
+396,Tumaini Disp,Dispensary,Private,Geita,0
+397,Kmt Buziku,Dispensary,Private,Geita,0
+398,Iparamasa,Dispensary,Private,Geita,0
+399,Msufini,Dispensary,Private,Geita,0
+400,Vatican,Dispensary,Private,Geita,0
+401,Bakwata  Muganza,Dispensary,Private,Geita,0
+402,Upendo,Dispensary,Private,Geita,0
+403,Bahimba Disp,Dispensary,Private,Geita,0
+404,St. Joseph,Dispensary,Private,Geita,0
+405,Wazazi Lulembela Dispensary,Dispensary,Private,Geita,0
+406,Nduta Refugee Camp,Dispensary,Private,Kigoma,3
+407,Shunga Health Centre,Health Centre,Private,Kigoma,2
+408,Msambara Disp,Dispensary,Private,Kigoma,2
+409,Heri Hospital,Hospital,Private,Kigoma,2
+410,Muhinda,Dispensary,Private,Kigoma,2
+411,Gombe Dispensary,Dispensary,Private,Kigoma,2
+412,Kakonko Dispensary,Dispensary,Private,Kigoma,2
+413,Kigoma Baptist,Hospital,Private,Kigoma,1
+414,Nyarugusu Refugees Health Centre,Health Centre,Private,Kigoma,1
+415,Upendo Founation,Health Centre,Private,Kigoma,1
+416,Kasumo,Dispensary,Private,Kigoma,1
+417,Upendo Dispensary,Dispensary,Private,Kigoma,1
+418,Buhigwe,Dispensary,Private,Kigoma,1
+419,Mulera,Health Centre,Private,Kigoma,1
+420,Huruma Modern Dispensary,Dispensary,Private,Kigoma,1
+421,Keza,Dispensary,Private,Kigoma,1
+422,Bigabiro Dispensary,Dispensary,Private,Kigoma,1
+423,Biharu,Health Centre,Private,Kigoma,1
+424,Nyakimwe,Dispensary,Private,Kigoma,1
+425,Sda Dispensary,Dispensary,Private,Kigoma,1
+426,Kasulwa,Dispensary,Private,Kigoma,1
+427,Kiganza  Mission,Dispensary,Private,Kigoma,1
+428,Mubanga,Dispensary,Private,Kigoma,1
+429,Tumaini Dispensary,Dispensary,Private,Kigoma,1
+430,Furaha Dispensary,Dispensary,Private,Kigoma,1
+431,Heru Ushingo Dispensary,Dispensary,Private,Kigoma,0
+432,Ndaboine Dispensary,Dispensary,Private,Kigoma,0
+433,Sda,Dispensary,Private,Kigoma,0
+434,Musagara,Dispensary,Private,Kigoma,0
+435,Muzdalifah,Dispensary,Private,Kigoma,0
+436,Upendo Dispensary,Dispensary,Private,Kigoma,0
+437,Kigoma International,Health Centre,Private,Kigoma,0
+438,Kalinzi Dispensary,Dispensary,Private,Kigoma,0
+439,Faraja,Dispensary,Private,Kigoma,0
+440,Mahale Dispensary,Dispensary,Private,Kigoma,0
+441,Muzdalifa Dispensary,Dispensary,Private,Kigoma,0
+442,Tgf,Health Centre,Private,Mara,3
+443,Kowak Hospital,Hospital,Private,Mara,3
+444,Masangahealth Centre,Health Centre,Private,Mara,3
+445,Will's Memorial,Health Centre,Private,Mara,2
+446,Rao Hospital,Hospital,Private,Mara,2
+447,Shirati Hospital,Hospital,Private,Mara,2
+448,Huduma Dispensary,Dispensary,Private,Mara,2
+449,Bunda Ddh,Hospital,Private,Mara,2
+450,Name Of Dispensarybikira Maria,Dispensary,Private,Mara,2
+451,Grumeti,Dispensary,Private,Mara,2
+452,St. Mary's Hospital Kibara,Hospital,Private,Mara,2
+453,Ngasaro Dispensary,Dispensary,Private,Mara,2
+454,Sachita,Health Centre,Private,Mara,2
+455,Marie Stopes Dispensary,Dispensary,Private,Mara,2
+456,Kada Mugumu,Dispensary,Private,Mara,2
+457,Nyereree (mugumu)ddh,Hospital,Private,Mara,1
+458,Sda,Dispensary,Private,Mara,1
+459,Rosana,Dispensary,Private,Mara,1
+460,Baraki H/c,Health Centre,Private,Mara,1
+461,Nyarero,Health Centre,Private,Mara,1
+462,Mosongo,Dispensary,Private,Mara,1
+463,Kibumaye,Dispensary,Private,Mara,1
+464,Omegahealth Centre,Health Centre,Private,Mara,1
+465,Tarime Goodwill Dispensary,Dispensary,Private,Mara,1
+466,Aict Nyasho Dispensary,Dispensary,Private,Mara,1
+467,Aict Bweri,Dispensary,Private,Mara,1
+468,Nyarombo H/c,Health Centre,Private,Mara,1
+469,Bethsaida H/c,Health Centre,Private,Mara,1
+470,Name Of Dispensary Makonzo,Dispensary,Private,Mara,1
+471,Kamunyonge Sda,Dispensary,Private,Mara,1
+472,Bwasi,Dispensary,Private,Mara,1
+473,St.Valentine Dispensary,Dispensary,Private,Mara,1
+474,Coptic Medical Center,Health Centre,Private,Mara,1
+475,Nyasoro Dispensary,Dispensary,Private,Mara,1
+476,Alpha Prinimat,Dispensary,Private,Mara,1
+477,Manga Dispensary,Dispensary,Private,Mara,1
+478,Masonga H/c,Health Centre,Private,Mara,1
+479,Keisangora,Dispensary,Private,Mara,1
+480,Kada,Dispensary,Private,Mara,1
+481,Gisarya,Dispensary,Private,Mara,1
+482,Isseco,Dispensary,Private,Mara,1
+483,Rwanga Kmt,Dispensary,Private,Mara,0
+484,Burito,Dispensary,Private,Mara,0
+485,Burere Dispensary,Dispensary,Private,Mara,0
+486,Jema Rch Dispensary,Dispensary,Private,Mara,0
+487,Kothora Dispensary,Dispensary,Private,Mara,0
+488,Urafiki,Dispensary,Private,Mara,0
+489,Nyamasanda,Dispensary,Private,Mara,0
+490,Cada,Dispensary,Private,Mara,0
+491,Ihsa - Kitenga,Dispensary,Private,Mara,0
+492,S0ta Dispensary,Dispensary,Private,Mara,0
+493,Sayuni Dispensary,Dispensary,Private,Mara,0
+494,Nyakato Red Cross Dispensary,Dispensary,Private,Mara,0
+495,Ntagacha,Health Centre,Private,Mara,0
+496,Agakhan,Health Centre,Private,Mwanza,2
+497,Bukumbi,Hospital,Private,Mwanza,2
+498,Nyakato,Health Centre,Private,Mwanza,2
+499,Kiloleli Juu,Health Centre,Private,Mwanza,2
+500,Nyakahoja,Dispensary,Private,Mwanza,2
+501,Saut Nyegezi Disp,Dispensary,Private,Mwanza,2
+502,Pasiansi Sda,Health Centre,Private,Mwanza,2
+503,Mwananchi Hospital,Hospital,Private,Mwanza,2
+504,Umati,Dispensary,Private,Mwanza,2
+505,Kakobe Health Centre,Health Centre,Private,Mwanza,2
+506,Shree Hindumandal Hosp,Hospital,Private,Mwanza,2
+507,Aar Mwanza Dispensary,Dispensary,Private,Mwanza,2
+508,Itabagumba Aict Dispensary,Dispensary,Private,Mwanza,2
+509,Huduma,Health Centre,Private,Mwanza,1
+510,Usimau,Dispensary,Private,Mwanza,1
+511,Kahunda,Dispensary,Private,Mwanza,1
+512,Cf Hospital,Hospital,Private,Mwanza,1
+513,Sumve Hospital,Hospital,Private,Mwanza,1
+514,Sengerema Ddh,Hospital,Private,Mwanza,1
+515,Marie Stopes Dispensary,Dispensary,Private,Mwanza,1
+516,Juwa,Dispensary,Private,Mwanza,1
+517,Tanzania Breweries Limited,Dispensary,Private,Mwanza,1
+518,Mwanza Hospital,Hospital,Private,Mwanza,1
+519,Biohealth Dispensary,Dispensary,Private,Mwanza,1
+520,Kmt Sengerema Disp,Dispensary,Private,Mwanza,1
+521,Kazilankanda,Dispensary,Private,Mwanza,1
+522,Kamanga Hospital,Hospital,Private,Mwanza,1
+523,Kijima Aict Dispensary,Dispensary,Private,Mwanza,1
+524,Gisan Hc,Health Centre,Private,Mwanza,1
+525,Prinmat Arma,Dispensary,Private,Mwanza,1
+526,Upendo,Dispensary,Private,Mwanza,1
+527,Genesis,Dispensary,Private,Mwanza,1
+528,Aict Makongoro Health Centre,Health Centre,Private,Mwanza,1
+529,Hurumia Watoto,Health Centre,Private,Mwanza,1
+530,Huruma Dispensary,Dispensary,Private,Mwanza,1
+531,Bio Health Centre,Health Centre,Private,Mwanza,1
+532,Nazareth,Dispensary,Private,Mwanza,1
+533,Buhingo Dispensary,Dispensary,Private,Mwanza,1
+534,Salamaan,Health Centre,Private,Mwanza,1
+535,Joseph Medicare,Dispensary,Private,Mwanza,1
+536,Magera,Health Centre,Private,Mwanza,1
+537,Spj Dispensary,Dispensary,Private,Mwanza,1
+538,Kilombero Hc,Health Centre,Private,Mwanza,1
+539,Star Medicare &clinics,Dispensary,Private,Mwanza,1
+540,Mandela,Dispensary,Private,Mwanza,1
+541,Amani Chogo Memorial Dispensary,Dispensary,Private,Mwanza,1
+542,Mwamashimba,Health Centre,Private,Mwanza,1
+543,Tumaini,Health Centre,Private,Mwanza,1
+544,Kulwa Dispensary,Dispensary,Private,Mwanza,1
+545,Dvn,Dispensary,Private,Mwanza,1
+546,Nabungona Sda Dispensary,Dispensary,Private,Mwanza,1
+547,Anamed,Dispensary,Private,Mwanza,1
+548,Kmt-mkuyuni,Dispensary,Private,Mwanza,1
+549,Ngumo,Health Centre,Private,Mwanza,1
+550,Amani Dispensary,Dispensary,Private,Mwanza,1
+551,Mahina Msamaria Health Center,Health Centre,Private,Mwanza,0
+552,Tukuyu,Dispensary,Private,Mwanza,0
+553,Upendo,Health Centre,Private,Mwanza,0
+554,K.K.K.T Imani,Dispensary,Private,Mwanza,0
+555,Ilemela,Dispensary,Private,Mwanza,0
+556,Mwanza,Dispensary,Private,Mwanza,0
+557,Nyasaka,Dispensary,Private,Mwanza,0
+558,Nyambiti,Health Centre,Private,Mwanza,0
+559,"Serengeti 'c"" Cada",Dispensary,Private,Mwanza,0
+560,Komaswa,Dispensary,Private,Mwanza,0
+561,Bakwata,Dispensary,Private,Mwanza,0
+562,Saidia Watoto,Dispensary,Private,Mwanza,0
+563,Hageb,Health Centre,Private,Mwanza,0
+564,Huduma,Dispensary,Private,Mwanza,0
+565,Magomeni,Dispensary,Private,Mwanza,0
+566,Nakatunguru,Dispensary,Private,Mwanza,0
+567,Victoria,Dispensary,Private,Mwanza,0
+568,Kmt Wanze,Dispensary,Private,Mwanza,0
+569,Kanyama,Dispensary,Private,Mwanza,0
+570,Corner,Dispensary,Private,Mwanza,0
+571,Nyamazugo Prinmat,Dispensary,Private,Mwanza,0
+572,Military,Dispensary,Private,Mwanza,0
+573,Maria/kisesa Disp,Dispensary,Private,Mwanza,0
+574,Huruma Disp,Dispensary,Private,Mwanza,0
+575,Mlimani,Dispensary,Private,Mwanza,0
+576,Mama,Dispensary,Private,Mwanza,0
+577,Bakwata Maganzo,Dispensary,Private,Simiyu,1
+578,Rc Mwanhuzi,Dispensary,Private,Simiyu,1
+579,Mshikamano Bakwata,Dispensary,Private,Simiyu,1
+580,New Stand Bakwata Dispensary,Dispensary,Private,Simiyu,0
+581,Tandale,Dispensary,Public,Dar es Salaam,4
+582,Mburahati,Dispensary,Public,Dar es Salaam,4
+583,Kimara Dispensary,Dispensary,Public,Dar es Salaam,3
+584,Mbezi Luis Dispensary,Dispensary,Public,Dar es Salaam,3
+585,Mavurunza,Dispensary,Public,Dar es Salaam,3
+586,Mzimuni,Dispensary,Public,Dar es Salaam,3
+587,Makuburi,Dispensary,Public,Dar es Salaam,3
+588,Kunduchi,Dispensary,Public,Dar es Salaam,3
+589,Ununio,Dispensary,Public,Dar es Salaam,3
+590,Boko,Dispensary,Public,Dar es Salaam,3
+591,Tegeta,Dispensary,Public,Dar es Salaam,3
+592,Kawe,Dispensary,Public,Dar es Salaam,3
+593,Salasala,Dispensary,Public,Dar es Salaam,3
+594,Sinza Hospital,Hospital,Public,Dar es Salaam,2
+595,Udsm Hc,Health Centre,Public,Dar es Salaam,2
+596,Magomeni,Health Centre,Public,Dar es Salaam,2
+597,Mabibo Dispensary,Dispensary,Public,Dar es Salaam,2
+598,Mpiji Magohe,Dispensary,Public,Dar es Salaam,2
+599,Kibwegere,Dispensary,Public,Dar es Salaam,2
+600,Mabwepande,Dispensary,Public,Dar es Salaam,2
+601,Mbopo,Dispensary,Public,Dar es Salaam,2
+602,Mlalakuwa Jkt,Dispensary,Public,Dar es Salaam,2
+603,Mbweni Jkt,Dispensary,Public,Dar es Salaam,2
+604,Mbweni Mpiji,Dispensary,Public,Dar es Salaam,2
+605,Mbweni,Dispensary,Public,Dar es Salaam,2
+606,Madale,Dispensary,Public,Dar es Salaam,2
+607,Wazo,Dispensary,Public,Dar es Salaam,2
+608,Msumi,Dispensary,Public,Dar es Salaam,2
+609,Kibamba,Dispensary,Public,Dar es Salaam,2
+610,Kisopwa,Dispensary,Public,Dar es Salaam,2
+611,Msewe,Dispensary,Public,Dar es Salaam,2
+612,Kiluvya,Dispensary,Public,Dar es Salaam,2
+613,Mlalakuwa,Dispensary,Public,Dar es Salaam,2
+614,Mwenge,Dispensary,Public,Dar es Salaam,2
+615,Manzese,Dispensary,Public,Dar es Salaam,1
+616,Bunju,Dispensary,Public,Dar es Salaam,1
+617,Goba,Dispensary,Public,Dar es Salaam,1
+618,Kwembe Kati,Dispensary,Public,Dar es Salaam,1
+619,Kwembe,Dispensary,Public,Dar es Salaam,1
+620,Kigogo,Dispensary,Public,Dar es Salaam,1
+621,Mabibo Hostel,Dispensary,Public,Dar es Salaam,1
+622,Ardhi University,Dispensary,Public,Dar es Salaam,1
+623,Ndumbwi,Dispensary,Public,Dar es Salaam,1
+624,Makoprivate Juu,Dispensary,Public,Dar es Salaam,1
+625,Js Babhra,Dispensary,Public,Dar es Salaam,1
+626,Kijitonyama,Dispensary,Public,Dar es Salaam,1
+627,Oysterbay,Dispensary,Public,Dar es Salaam,1
+628,Kambangwa,Dispensary,Public,Dar es Salaam,1
+629,Hananasif,Dispensary,Public,Dar es Salaam,1
+630,Boko Magereza,Dispensary,Public,Dar es Salaam,0
+631,Geita Dc Hosp,Hospital,Public,Geita,2
+632,Nyarugusu,Dispensary,Public,Geita,2
+633,Nyakabale,Dispensary,Public,Geita,2
+634,Mharamba,Dispensary,Public,Geita,2
+635,Senga,Dispensary,Public,Geita,2
+636,Lwezera,Dispensary,Public,Geita,2
+637,Chigunga Disp,Dispensary,Public,Geita,2
+638,Chibingo,Dispensary,Public,Geita,2
+639,Nyamilolelwa,Dispensary,Public,Geita,2
+640,Bulela Dispensary,Dispensary,Public,Geita,2
+641,Nzera,Health Centre,Public,Geita,1
+642,Bugalula,Dispensary,Public,Geita,1
+643,Mwamitilwa,Dispensary,Public,Geita,1
+644,Kashishi,Health Centre,Public,Geita,1
+645,Kachwamba,Health Centre,Public,Geita,1
+646,Nyankumbu,Health Centre,Public,Geita,1
+647,Kifufu,Dispensary,Public,Geita,1
+648,Busanda,Dispensary,Public,Geita,1
+649,Lubondo,Dispensary,Public,Geita,1
+650,Katolo,Health Centre,Public,Geita,1
+651,Chato,Hospital,Public,Geita,1
+652,Izumacheli,Dispensary,Public,Geita,1
+653,Buzirayombo Dispensary,Dispensary,Public,Geita,1
+654,Bukombe District,Hospital,Public,Geita,1
+655,Ilolangulu Dispensary,Dispensary,Public,Geita,1
+656,Kasota,Dispensary,Public,Geita,1
+657,Nyanhwiga Dispensary,Dispensary,Public,Geita,1
+658,Busolwa,Dispensary,Public,Geita,1
+659,Nyabilezi,Dispensary,Public,Geita,1
+660,Bwanga,Health Centre,Public,Geita,1
+661,Kharumwa Health Centre,Health Centre,Public,Geita,1
+662,Nyakaduha,Dispensary,Public,Geita,1
+663,Chikobe,Health Centre,Public,Geita,1
+664,Mwingiro Disp,Dispensary,Public,Geita,1
+665,Katoro Tcmc,Dispensary,Public,Geita,1
+666,Bukwimba Disp.,Dispensary,Public,Geita,1
+667,Kayenze Disp.,Dispensary,Public,Geita,1
+668,Fulwe,Dispensary,Public,Geita,1
+669,Kigongo Dispensary,Dispensary,Public,Geita,1
+670,Lwamgasa,Dispensary,Public,Geita,1
+671,Buseresere,Dispensary,Public,Geita,1
+672,Lubanga,Dispensary,Public,Geita,1
+673,Nyang'hwale Health Center,Health Centre,Public,Geita,1
+674,Nyangalamila Disp,Dispensary,Public,Geita,1
+675,Ikunguigazi,Dispensary,Public,Geita,1
+676,Ihanga,Dispensary,Public,Geita,1
+677,Ikuzi,Dispensary,Public,Geita,1
+678,Kasamwa,Health Centre,Public,Geita,1
+679,Ushirika Dispensary,Dispensary,Public,Geita,1
+680,Nyambiti,Dispensary,Public,Geita,1
+681,Bugando,Dispensary,Public,Geita,1
+682,Ushirombo Health Center,Health Centre,Public,Geita,1
+683,Bukandwe Dispensary,Dispensary,Public,Geita,1
+684,Butwa Lulegeya,Dispensary,Public,Geita,1
+685,Nkome,Dispensary,Public,Geita,1
+686,Kakubilo,Dispensary,Public,Geita,1
+687,Bukondo,Dispensary,Public,Geita,1
+688,Nyasato Dispensary,Dispensary,Public,Geita,1
+689,Nyang'holongo Dispensary,Dispensary,Public,Geita,1
+690,Nyijundu Disp,Dispensary,Public,Geita,1
+691,Ndelema,Dispensary,Public,Geita,1
+692,Ilangale Dispensary,Dispensary,Public,Geita,1
+693,Ilyamchele,Dispensary,Public,Geita,1
+694,Buziku,Dispensary,Public,Geita,1
+695,Uyovu,Health Centre,Public,Geita,0
+696,Bukoli,Health Centre,Public,Geita,0
+697,Bulugala Dispensary,Dispensary,Public,Geita,0
+698,Kagu,Dispensary,Public,Geita,0
+699,Nyakagwe,Dispensary,Public,Geita,0
+700,Nyugwa Disp,Dispensary,Public,Geita,0
+701,Iboya Health Center,Health Centre,Public,Geita,0
+702,Bukombe,Dispensary,Public,Geita,0
+703,Munekezi,Dispensary,Public,Geita,0
+704,Katete Dispensary,Dispensary,Public,Geita,0
+705,"Bung""wangoko Dispensary",Dispensary,Public,Geita,0
+706,Masumbwe Hc,Health Centre,Public,Geita,0
+707,Kafita,Dispensary,Public,Geita,0
+708,Ilemela,Dispensary,Public,Geita,0
+709,Kasema,Dispensary,Public,Geita,0
+710,Ibondo,Dispensary,Public,Geita,0
+711,Lulembela,Dispensary,Public,Geita,0
+712,Iyogelo  Dispensary,Dispensary,Public,Geita,0
+713,Busaka Dispensary,Dispensary,Public,Geita,0
+714,Kasala Disp,Dispensary,Public,Geita,0
+715,Kishinda,Dispensary,Public,Geita,0
+716,Nyamalimbe,Dispensary,Public,Geita,0
+717,St Paul,Dispensary,Public,Geita,0
+718,Nyalwanzaja,Dispensary,Public,Geita,0
+719,Kitongo,Dispensary,Public,Geita,0
+720,Nyantimba,Dispensary,Public,Geita,0
+721,Kasang'hwa,Dispensary,Public,Geita,0
+722,Shabaka Disp,Dispensary,Public,Geita,0
+723,Kakola Disp.,Dispensary,Public,Geita,0
+724,Katende,Dispensary,Public,Geita,0
+725,Mkungo,Dispensary,Public,Geita,0
+726,Makurugusi Dispensary,Dispensary,Public,Geita,0
+727,Bugenezi,Dispensary,Public,Geita,0
+728,Lugunga Dispensary,Dispensary,Public,Geita,0
+729,Kibumba,Dispensary,Public,Geita,0
+730,Butundwe,Dispensary,Public,Geita,0
+731,Nyamilembe,Dispensary,Public,Geita,0
+732,Bulega,Dispensary,Public,Geita,0
+733,Huruma Dispensary,Dispensary,Public,Geita,0
+734,Ichwankima,Dispensary,Public,Geita,0
+735,Kasenga,Dispensary,Public,Geita,0
+736,Butalama,Health Centre,Public,Geita,0
+737,Lyulu Disp.,Dispensary,Public,Geita,0
+738,Nyakafuru Dispensary,Dispensary,Public,Geita,0
+739,Kibehe,Dispensary,Public,Geita,0
+740,Butengorumasa Dispensary,Dispensary,Public,Geita,0
+741,Kinsabe Dispensary,Dispensary,Public,Geita,0
+742,Kibondo,Hospital,Public,Kigoma,2
+743,Kichananga,Dispensary,Public,Kigoma,2
+744,Nengo Dispensary,Dispensary,Public,Kigoma,2
+745,Nengo Dispensary,Dispensary,Public,Kigoma,2
+746,Kumhasha  Dispensary,Dispensary,Public,Kigoma,2
+747,Samvura Dispensary,Dispensary,Public,Kigoma,2
+748,Rusesa Health Centre,Health Centre,Public,Kigoma,2
+749,Nyakitonto Health Centre,Health Centre,Public,Kigoma,2
+750,Mwibuye Dispensary,Dispensary,Public,Kigoma,2
+751,Kasaka,Dispensary,Public,Kigoma,2
+752,Kabanga Hosp,Hospital,Public,Kigoma,1
+753,Kasulu Hosp,Hospital,Public,Kigoma,1
+754,Ujiji Health Centre,Health Centre,Public,Kigoma,1
+755,Kiganamo Hc,Health Centre,Public,Kigoma,1
+756,Bitare Dispensary,Dispensary,Public,Kigoma,1
+757,Busunzu,Dispensary,Public,Kigoma,1
+758,Kasanda Dispensary,Dispensary,Public,Kigoma,1
+759,Heru  Juu,Dispensary,Public,Kigoma,1
+760,Mwandiga Dispensary,Dispensary,Public,Kigoma,1
+761,Twabagondozi,Dispensary,Public,Kigoma,1
+762,Gungu,Health Centre,Public,Kigoma,1
+763,Kigogo,Dispensary,Public,Kigoma,1
+764,Mukarazi,Dispensary,Public,Kigoma,1
+765,Mwayaya,Dispensary,Public,Kigoma,1
+766,Rusohoko,Dispensary,Public,Kigoma,1
+767,Mwanga Dispensary,Dispensary,Public,Kigoma,1
+768,Kigendeka,Dispensary,Public,Kigoma,1
+769,Kumhama,Dispensary,Public,Kigoma,1
+770,Kabare Dispensary,Dispensary,Public,Kigoma,1
+771,Janda,Health Centre,Public,Kigoma,1
+772,Itaba,Dispensary,Public,Kigoma,1
+773,Kidyama Dispensary,Dispensary,Public,Kigoma,1
+774,Murufiti Dispensary,Dispensary,Public,Kigoma,1
+775,Nyenge Health Centre,Health Centre,Public,Kigoma,1
+776,Rusaba,Dispensary,Public,Kigoma,1
+777,Chankere,Dispensary,Public,Kigoma,1
+778,Mugera,Dispensary,Public,Kigoma,1
+779,Kumbanga,Dispensary,Public,Kigoma,1
+780,Biturana,Dispensary,Public,Kigoma,1
+781,Muhunga Dispensary,Dispensary,Public,Kigoma,1
+782,Nabuhima,Dispensary,Public,Kigoma,1
+783,Pamila  Dispensary,Dispensary,Public,Kigoma,1
+784,Kanazi Dispensary,Dispensary,Public,Kigoma,1
+785,Munanila,Dispensary,Public,Kigoma,1
+786,Muzye Dispensary,Dispensary,Public,Kigoma,1
+787,Kitahana,Dispensary,Public,Kigoma,1
+788,Nyamidaho Dispensary,Dispensary,Public,Kigoma,1
+789,Kitema Dispensary,Dispensary,Public,Kigoma,1
+790,Kakonko,Health Centre,Public,Kigoma,1
+791,Kigondo Hospital,Dispensary,Public,Kigoma,1
+792,Mutala Dispensary,Dispensary,Public,Kigoma,1
+793,Kwaga Dispensary,Dispensary,Public,Kigoma,1
+794,Kigembe Dispensary,Dispensary,Public,Kigoma,1
+795,Nyange,Dispensary,Public,Kigoma,1
+796,Nyamisivyi,Dispensary,Public,Kigoma,1
+797,Rugunga,Dispensary,Public,Kigoma,1
+798,Nyaruboza,Dispensary,Public,Kigoma,1
+799,Name Of Disp 3,Dispensary,Public,Kigoma,1
+800,Kiganza Gov Dispensary,Dispensary,Public,Kigoma,1
+801,Nkundutsi Dispensary,Dispensary,Public,Kigoma,1
+802,Nyarugunga,Dispensary,Public,Kigoma,1
+803,Bugaga Dispensary,Dispensary,Public,Kigoma,1
+804,Bukirilo,Dispensary,Public,Kigoma,1
+805,Msimba Dispensary,Dispensary,Public,Kigoma,1
+806,Buhoro Dispensary,Dispensary,Public,Kigoma,1
+807,Kigaga,Dispensary,Public,Kigoma,1
+808,Bulombora,Dispensary,Public,Kigoma,1
+809,Kaseke Dispensary,Dispensary,Public,Kigoma,1
+810,Kamara Dispensary,Dispensary,Public,Kigoma,1
+811,Nyabitaka Dispensary,Dispensary,Public,Kigoma,1
+812,Shunguliba Dispensary,Dispensary,Public,Kigoma,1
+813,Kirungu Dispensary,Dispensary,Public,Kigoma,1
+814,Nyarubanda,Dispensary,Public,Kigoma,1
+815,Kagezi,Dispensary,Public,Kigoma,1
+816,Nyamhoza  Dispensary,Dispensary,Public,Kigoma,1
+817,Mukabuye,Dispensary,Public,Kigoma,1
+818,Makere Dispensary,Dispensary,Public,Kigoma,1
+819,Kahabako,Dispensary,Public,Kigoma,1
+820,Kumkugwa,Dispensary,Public,Kigoma,1
+821,Nyamabuye,Dispensary,Public,Kigoma,1
+822,Kidahwe  Dispensary,Dispensary,Public,Kigoma,1
+823,Kilelema,Dispensary,Public,Kigoma,1
+824,Kitagata Dispensary,Dispensary,Public,Kigoma,1
+825,Nyaruyoba,Dispensary,Public,Kigoma,1
+826,Ruhita Dispensary,Dispensary,Public,Kigoma,1
+827,Kumsenga,Dispensary,Public,Kigoma,1
+828,Bugamba Dispensary,Dispensary,Public,Kigoma,1
+829,Nyamnyusi Dispensary,Dispensary,Public,Kigoma,1
+830,Muyama,Health Centre,Public,Kigoma,0
+831,Nyumbigwa Disp,Dispensary,Public,Kigoma,0
+832,Titye Dispensary,Dispensary,Public,Kigoma,0
+833,Kizenga Dispensary,Dispensary,Public,Kigoma,0
+834,Nyanzige,Health Centre,Public,Kigoma,0
+835,Kasuku  Dispensary,Dispensary,Public,Kigoma,0
+836,Kabingo Dispensary,Dispensary,Public,Kigoma,0
+837,Songambele,Dispensary,Public,Kigoma,0
+838,Kinazi Dispensary,Dispensary,Public,Kigoma,0
+839,Kalela Dispensary,Dispensary,Public,Kigoma,0
+840,Migongo,Dispensary,Public,Kigoma,0
+841,Nyankoronko,Dispensary,Public,Kigoma,0
+842,Kasongati,Dispensary,Public,Kigoma,0
+843,Kitambuka,Dispensary,Public,Kigoma,0
+844,Zashe Dispensary,Dispensary,Public,Kigoma,0
+845,Police Dispensary,Dispensary,Public,Kigoma,0
+846,Bangwe,Dispensary,Public,Kigoma,0
+847,Kigogwe,Dispensary,Public,Kigoma,0
+848,Kibingo,Dispensary,Public,Kigoma,0
+849,Nyagwijima Dispensary,Dispensary,Public,Kigoma,0
+850,Mgalaganza Dispensary,Dispensary,Public,Kigoma,0
+851,Nyabibuye,Dispensary,Public,Kigoma,0
+852,Nyachenda Dispensary,Dispensary,Public,Kigoma,0
+853,Kagera Nkanda Dispensary,Dispensary,Public,Kigoma,0
+854,Kaguruka Dispensary,Dispensary,Public,Kigoma,0
+855,Rusimbi,Dispensary,Public,Kigoma,0
+856,Prisons Force,Dispensary,Public,Kigoma,0
+857,Kajana,Dispensary,Public,Kigoma,0
+858,Kalalangabo  Dispensary,Dispensary,Public,Kigoma,0
+859,Kiduduye,Dispensary,Public,Kigoma,0
+860,Nyamori Dispensary,Dispensary,Public,Kigoma,0
+861,Bunyambo Dispensary,Dispensary,Public,Kigoma,0
+862,Kdc,Dispensary,Public,Kigoma,0
+863,Kigadye Dispensary,Dispensary,Public,Kigoma,0
+864,Rungwe Mpya Dispensary,Dispensary,Public,Kigoma,0
+865,Businde,Dispensary,Public,Kigoma,0
+866,Aksante Nyerere Dispensary,Dispensary,Public,Kigoma,0
+867,Mkabogo,Dispensary,Public,Kigoma,0
+868,Kiziba Dispensary,Dispensary,Public,Kigoma,0
+869,Lalambe Dispensary,Dispensary,Public,Kigoma,0
+870,Kanyonza,Dispensary,Public,Kigoma,0
+871,Kanembwa,Dispensary,Public,Kigoma,0
+872,Msufini Dispensary,Dispensary,Public,Kigoma,0
+873,Nyarugusu,Dispensary,Public,Kigoma,0
+874,Gwarama Dispensary,Dispensary,Public,Kigoma,0
+875,Minyinyi,Dispensary,Public,Kigoma,0
+876,Kigina,Dispensary,Public,Kigoma,0
+877,Mkongolo,Dispensary,Public,Kigoma,0
+878,Kinonko Dispensary,Dispensary,Public,Kigoma,0
+879,Kasuga Disp,Dispensary,Public,Kigoma,0
+880,Kigalye Dispensary,Dispensary,Public,Kigoma,0
+881,Muhange,Dispensary,Public,Kigoma,0
+882,Gwanumpu,Health Centre,Public,Kigoma,0
+883,Kibuye,Dispensary,Public,Kigoma,0
+884,Kazilamihunda,Dispensary,Public,Kigoma,0
+885,Zeze Dispensary,Dispensary,Public,Kigoma,0
+886,Mvinza Dispensary,Dispensary,Public,Kigoma,0
+887,Kagongo  Dispensary,Dispensary,Public,Kigoma,0
+888,Kimwanya Health Centre,Health Centre,Public,Kigoma,0
+889,Nyakasanda Dispensary,Dispensary,Public,Kigoma,0
+890,Buhanda,Dispensary,Public,Kigoma,0
+891,Katanga,Dispensary,Public,Kigoma,0
+892,Uvinza Dispensary,Dispensary,Public,Kigoma,0
+893,Simbo  Dispensary,Dispensary,Public,Kigoma,0
+894,Nkungwe Dispensary,Dispensary,Public,Kigoma,0
+895,Mugunzu Dispensary,Dispensary,Public,Kigoma,0
+896,Mkigo Dispensary,Dispensary,Public,Kigoma,0
+897,Mwali Dispensary,Dispensary,Public,Kigoma,0
+898,Kagunga Dispensary,Dispensary,Public,Kigoma,0
+899,Nyakayenzi Dispensary,Dispensary,Public,Kigoma,0
+900,Mugombe Dispensary,Dispensary,Public,Kigoma,0
+901,Chankabwimba  Dispensary,Dispensary,Public,Kigoma,0
+902,Muyovosi Health Centre,Health Centre,Public,Kigoma,0
+903,Kibwingwa,Dispensary,Public,Kigoma,0
+904,Kiga,Dispensary,Public,Kigoma,0
+905,Mahembe Dispensary,Dispensary,Public,Kigoma,0
+906,Mtanga Dispensary,Dispensary,Public,Kigoma,0
+907,Marumba Dispensary,Dispensary,Public,Kigoma,0
+908,Nyamtukuza,Dispensary,Public,Kigoma,0
+909,Mvungwe Dispensary,Dispensary,Public,Kigoma,0
+910,Rumashi,Dispensary,Public,Kigoma,0
+911,Chakulu,Dispensary,Public,Kigoma,0
+912,Kasangezi Dispensary,Dispensary,Public,Kigoma,0
+913,Matendo Dispensary,Dispensary,Public,Kigoma,0
+914,Bubango  Dispensary,Dispensary,Public,Kigoma,0
+915,Songambele Dispensary,Dispensary,Public,Kigoma,0
+916,Mlela,Dispensary,Public,Kigoma,0
+917,Lyabusende Dispensary,Dispensary,Public,Kigoma,0
+918,Kirando Dispensary,Dispensary,Public,Kigoma,0
+919,Kandaga,Dispensary,Public,Kigoma,0
+920,Chagu,Dispensary,Public,Kigoma,0
+921,Ilalangulu Dispensary,Dispensary,Public,Kigoma,0
+922,Igalula Dispensary,Dispensary,Public,Kigoma,0
+923,Kitanga Dispensary,Dispensary,Public,Kigoma,0
+924,Mikonko Dsp,Dispensary,Public,Kigoma,0
+925,Mwamila Dispensary,Dispensary,Public,Kigoma,0
+926,Sigunga Dispensary,Dispensary,Public,Kigoma,0
+927,Nyanza Dispensary,Dispensary,Public,Kigoma,0
+928,Kaparamsenga,Dispensary,Public,Kigoma,0
+929,Mugambazi,Dispensary,Public,Kigoma,0
+930,Karago Dispensary,Dispensary,Public,Kigoma,0
+931,Kazuramimba,Dispensary,Public,Kigoma,0
+932,Sunuka Dispensary,Dispensary,Public,Kigoma,0
+933,Mtego Wa Noti,Dispensary,Public,Kigoma,0
+934,Mganza Dispensary,Dispensary,Public,Kigoma,0
+935,Nyanganga,Dispensary,Public,Kigoma,0
+936,Katundu,Dispensary,Public,Kigoma,0
+937,Nkonkwa Dispensary,Dispensary,Public,Kigoma,0
+938,Magarama,Dispensary,Public,Kigoma,0
+939,Nyarugusu Dispensary,Dispensary,Public,Kigoma,0
+940,Sibwesa Dispensary,Dispensary,Public,Kigoma,0
+941,Bweri H/centre,Health Centre,Public,Mara,3
+942,Tegeruka,Dispensary,Public,Mara,3
+943,Nhangoto,Health Centre,Public,Mara,3
+944,Magoto,Health Centre,Public,Mara,2
+945,Ikomo,Dispensary,Public,Mara,2
+946,Tarime Hospital,Hospital,Public,Mara,2
+947,Murangihealth Centre.,Health Centre,Public,Mara,2
+948,Kenyamanyori,Dispensary,Public,Mara,2
+949,Nyambono,Dispensary,Public,Mara,2
+950,Etaro,Dispensary,Public,Mara,2
+951,Gamasara,Dispensary,Public,Mara,2
+952,Butiama Hospital,Hospital,Public,Mara,2
+953,Kwangwa Dispensary,Dispensary,Public,Mara,2
+954,Nata,Health Centre,Public,Mara,2
+955,Nyasho H/c,Health Centre,Public,Mara,2
+956,Nyakato Dispensary,Dispensary,Public,Mara,2
+957,Wanyele,Dispensary,Public,Mara,2
+958,Nyakatende,Dispensary,Public,Mara,2
+959,Bukima,Dispensary,Public,Mara,2
+960,Machochwe H/c,Health Centre,Public,Mara,2
+961,Nyamwaga,Dispensary,Public,Mara,2
+962,Mriba,Health Centre,Public,Mara,2
+963,Nyegina,Dispensary,Public,Mara,2
+964,Changuge Health,Health Centre,Public,Mara,2
+965,Makoko,Dispensary,Public,Mara,2
+966,Rusoli,Dispensary,Public,Mara,2
+967,Nyinchoka,Dispensary,Public,Mara,2
+968,Kiemba,Dispensary,Public,Mara,2
+969,Mwisenge Dispensary,Dispensary,Public,Mara,2
+970,Surubu,Dispensary,Public,Mara,2
+971,Buhare Dispensary,Dispensary,Public,Mara,2
+972,Nyakitono,Dispensary,Public,Mara,2
+973,Nyasaricho,Dispensary,Public,Mara,2
+974,Kiongera,Dispensary,Public,Mara,1
+975,Mtana,Dispensary,Public,Mara,1
+976,Nyamongo,Dispensary,Public,Mara,1
+977,Kiagata,Health Centre,Public,Mara,1
+978,Chitare,Dispensary,Public,Mara,1
+979,Nyantira,Dispensary,Public,Mara,1
+980,Gibaso,Dispensary,Public,Mara,1
+981,Mbalibali,Dispensary,Public,Mara,1
+982,Rung'abure Dispensary.,Dispensary,Public,Mara,1
+983,Nyamisingisi,Dispensary,Public,Mara,1
+984,Genkuru,Dispensary,Public,Mara,1
+985,Nyamburi,Dispensary,Public,Mara,1
+986,Sirari,Health Centre,Public,Mara,1
+987,Nyamatoke,Dispensary,Public,Mara,1
+988,Sakawa Dispensary,Dispensary,Public,Mara,1
+989,Mugumu Rch B,Health Centre,Public,Mara,1
+990,Kwikuba,Dispensary,Public,Mara,1
+991,Manyamanyama,Hospital,Public,Mara,1
+992,Busungu,Dispensary,Public,Mara,1
+993,Masinki,Dispensary,Public,Mara,1
+994,Nyarwana,Health Centre,Public,Mara,1
+995,Bwai,Dispensary,Public,Mara,1
+996,Mugango,Dispensary,Public,Mara,1
+997,Isenye Dispensary,Dispensary,Public,Mara,1
+998,Kuruya Dispensary,Dispensary,Public,Mara,1
+999,Salama A Dispensary,Dispensary,Public,Mara,1
+1000,Gantamome,Dispensary,Public,Mara,1
+1001,Iringo Dispensary,Dispensary,Public,Mara,1
+1002,Robanta,Health Centre,Public,Mara,1
+1003,Bwitengi Dispensary.,Dispensary,Public,Mara,1
+1004,Rwamlimi Dispensary,Dispensary,Public,Mara,1
+1005,Rigicha Dispensary,Dispensary,Public,Mara,1
+1006,"Rwang""enyi",Dispensary,Public,Mara,1
+1007,Nyamagaro Dispensary,Dispensary,Public,Mara,1
+1008,Nansimo Dispensary,Dispensary,Public,Mara,1
+1009,Nyanchabakene,Dispensary,Public,Mara,1
+1010,Lake Victoria Dispensary,Dispensary,Public,Mara,1
+1011,Bugire,Dispensary,Public,Mara,1
+1012,Utegihealth Centre,Health Centre,Public,Mara,1
+1013,Nyansurura,Dispensary,Public,Mara,1
+1014,Bubombi Dispensary,Dispensary,Public,Mara,1
+1015,Ronsoti,Dispensary,Public,Mara,1
+1016,Kurugeye,Dispensary,Public,Mara,1
+1017,Itununu Dispensary,Dispensary,Public,Mara,1
+1018,Masinono,Dispensary,Public,Mara,1
+1019,Iramba,Health Centre,Public,Mara,1
+1020,Iramba Dispensary,Dispensary,Public,Mara,1
+1021,Suguti,Dispensary,Public,Mara,1
+1022,Buturi Dispensary,Dispensary,Public,Mara,1
+1023,Rch- A,Dispensary,Public,Mara,1
+1024,Bugunda,Dispensary,Public,Mara,1
+1025,Rwamchanga Dispensary,Dispensary,Public,Mara,1
+1026,Kiriba,Dispensary,Public,Mara,1
+1027,Guta Dispensary,Dispensary,Public,Mara,1
+1028,Kabare Primat,Dispensary,Public,Mara,1
+1029,Park Nyigoti,Dispensary,Public,Mara,1
+1030,Kome,Dispensary,Public,Mara,1
+1031,Sokolabolo Dispensary,Dispensary,Public,Mara,1
+1032,Wegete,Dispensary,Public,Mara,1
+1033,Nyamitita,Dispensary,Public,Mara,1
+1034,Tabora Dispensary,Dispensary,Public,Mara,1
+1035,Bumera,Dispensary,Public,Mara,1
+1036,Iseresere,Dispensary,Public,Mara,1
+1037,Chereche Dispensary,Dispensary,Public,Mara,1
+1038,Kinesihealth Centre,Health Centre,Public,Mara,1
+1039,Bonchugu,Dispensary,Public,Mara,1
+1040,Kigera Etuma,Dispensary,Public,Mara,1
+1041,Nyahongo,Dispensary,Public,Mara,1
+1042,Karukekere Dispensary,Dispensary,Public,Mara,1
+1043,Kenyana Dispensary,Dispensary,Public,Mara,1
+1044,Nyabisaga,Dispensary,Public,Mara,1
+1045,Masike Dispensary,Dispensary,Public,Mara,1
+1046,Gisarya,Dispensary,Public,Mara,1
+1047,Raranya Dispensary,Dispensary,Public,Mara,1
+1048,Aict Bunda Dispensary,Dispensary,Public,Mara,1
+1049,Sazira Dispensary,Dispensary,Public,Mara,1
+1050,Namhula,Dispensary,Public,Mara,1
+1051,Tamau Dispensary,Dispensary,Public,Mara,1
+1052,Ruhu Dispensary,Dispensary,Public,Mara,1
+1053,Remung'oroli,Dispensary,Public,Mara,1
+1054,Nyiboko Dispensary,Dispensary,Public,Mara,1
+1055,Marambeka Dispensary,Dispensary,Public,Mara,1
+1056,Salama Kati Dispensary,Dispensary,Public,Mara,1
+1057,Bukama Sda,Dispensary,Public,Mara,1
+1058,Buruma,Dispensary,Public,Mara,1
+1059,Sarawe Dispensary,Dispensary,Public,Mara,1
+1060,Boma Dispensary,Dispensary,Public,Mara,1
+1061,Kunzugu Dispensary,Dispensary,Public,Mara,1
+1062,Mcharo,Dispensary,Public,Mara,1
+1063,Kubiterere,Dispensary,Public,Mara,1
+1064,Mariwanda,Dispensary,Public,Mara,1
+1065,Kitembele Dispensary,Dispensary,Public,Mara,0
+1066,Ukombozi Dispensary,Dispensary,Public,Mara,0
+1067,Musati,Dispensary,Public,Mara,0
+1068,Bhoke Dispensary,Dispensary,Public,Mara,0
+1069,St Claret,Dispensary,Public,Mara,0
+1070,Lukuba,Dispensary,Public,Mara,0
+1071,Majimoto,Dispensary,Public,Mara,0
+1072,Bungurere,Dispensary,Public,Mara,0
+1073,Kebanchabancha,Health Centre,Public,Mara,0
+1074,Matongo,Dispensary,Public,Mara,0
+1075,Bugoji,Dispensary,Public,Mara,0
+1076,Panyakoo Dispensary,Dispensary,Public,Mara,0
+1077,Nyamatare Dispensary,Dispensary,Public,Mara,0
+1078,Kangetutya,Dispensary,Public,Mara,0
+1079,Gusuhi,Dispensary,Public,Mara,0
+1080,Magereza,Dispensary,Public,Mara,0
+1081,Nyangere Dispensary,Dispensary,Public,Mara,0
+1082,Nyasoko,Dispensary,Public,Mara,0
+1083,Merenga,Dispensary,Public,Mara,0
+1084,Faraja Primart,Dispensary,Public,Mara,0
+1085,Igundu Dispensary,Dispensary,Public,Mara,0
+1086,Maburi,Dispensary,Public,Mara,0
+1087,Magereza Dispensary,Dispensary,Public,Mara,0
+1088,Seronera,Dispensary,Public,Mara,0
+1089,Seka,Dispensary,Public,Mara,0
+1090,Magena,Dispensary,Public,Mara,0
+1091,Makoko Jw,Dispensary,Public,Mara,0
+1092,Musoma Police,Dispensary,Public,Mara,0
+1093,Mihale Dispensary,Dispensary,Public,Mara,0
+1094,Kitagutiti,Dispensary,Public,Mara,0
+1095,Kurusanga Dispensary,Dispensary,Public,Mara,0
+1096,Ochuna Dispensary,Dispensary,Public,Mara,0
+1097,Ikoma Dispensary,Dispensary,Public,Mara,0
+1098,Radienya Dispensary,Dispensary,Public,Mara,0
+1099,Hunyari,Dispensary,Public,Mara,0
+1100,Kemugesi,Health Centre,Public,Mara,0
+1101,Kabasa Dispensary,Dispensary,Public,Mara,0
+1102,Manchimweru Dispensary,Dispensary,Public,Mara,0
+1103,Baraki Dispensary,Dispensary,Public,Mara,0
+1104,Kogaja Dispensary,Dispensary,Public,Mara,0
+1105,Nyankomogo,Dispensary,Public,Mara,0
+1106,Busambara,Dispensary,Public,Mara,0
+1107,Bulamba Dispensary,Dispensary,Public,Mara,0
+1108,Mwiruruma Dispensary,Dispensary,Public,Mara,0
+1109,Nyaburundu,Dispensary,Public,Mara,0
+1110,Nkerege,Dispensary,Public,Mara,0
+1111,Mekomariro Dispensary,Dispensary,Public,Mara,0
+1112,Sunsi Dispensary,Dispensary,Public,Mara,0
+1113,Bunda Magereza Dispensary,Dispensary,Public,Mara,0
+1114,Nafuba Dispensary,Dispensary,Public,Mara,0
+1115,Nyambori Dispensary,Dispensary,Public,Mara,0
+1116,Nyamatoke  Dispensary,Dispensary,Public,Mara,0
+1117,Kibuyi Dispensary,Dispensary,Public,Mara,0
+1118,Bugarika,Dispensary,Public,Mwanza,2
+1119,Sangabuye,Health Centre,Public,Mwanza,2
+1120,Nyamagana Hospital,Hospital,Public,Mwanza,2
+1121,Pasiansi,Dispensary,Public,Mwanza,2
+1122,Nyanzenda Dispensary,Dispensary,Public,Mwanza,2
+1123,Busisi,Dispensary,Public,Mwanza,2
+1124,Nyamizeze,Dispensary,Public,Mwanza,2
+1125,Nyakato,Dispensary,Public,Mwanza,2
+1126,Nyakalilo,Health Centre,Public,Mwanza,2
+1127,Igoma,Health Centre,Public,Mwanza,2
+1128,Katunguru,Health Centre,Public,Mwanza,2
+1129,Igala Dispensary,Dispensary,Public,Mwanza,2
+1130,Misungwi District Hospital,Hospital,Public,Mwanza,2
+1131,Buhongwa,Dispensary,Public,Mwanza,2
+1132,Igogo Dispensary,Dispensary,Public,Mwanza,2
+1133,Shadi,Dispensary,Public,Mwanza,2
+1134,Iligamba,Dispensary,Public,Mwanza,2
+1135,Mabatini Police Dispensary,Dispensary,Public,Mwanza,2
+1136,Kahumulo,Dispensary,Public,Mwanza,2
+1137,Mwawile Dispensary,Dispensary,Public,Mwanza,2
+1138,Kisaba,Dispensary,Public,Mwanza,2
+1139,Mkolani Dispensary,Dispensary,Public,Mwanza,2
+1140,Bupandwa,Dispensary,Public,Mwanza,2
+1141,Lugeye,Dispensary,Public,Mwanza,2
+1142,Luchili,Dispensary,Public,Mwanza,2
+1143,Busekeseke,Dispensary,Public,Mwanza,2
+1144,Buzuruga,Health Centre,Public,Mwanza,2
+1145,Sima,Dispensary,Public,Mwanza,2
+1146,Mwangika,Health Centre,Public,Mwanza,1
+1147,Magu,Hospital,Public,Mwanza,1
+1148,Kasisa,Dispensary,Public,Mwanza,1
+1149,Huduma Mashuleni,Dispensary,Public,Mwanza,1
+1150,Ntulya,Dispensary,Public,Mwanza,1
+1151,Ngoma A,Dispensary,Public,Mwanza,1
+1152,Busulwangiri,Dispensary,Public,Mwanza,1
+1153,Military Hospita Mwanza,Hospital,Public,Mwanza,1
+1154,Nansio,Hospital,Public,Mwanza,1
+1155,Kagunguli,Health Centre,Public,Mwanza,1
+1156,Buyagu Disp,Dispensary,Public,Mwanza,1
+1157,Misasi,Health Centre,Public,Mwanza,1
+1158,Seth Benjamin Dispensary,Dispensary,Public,Mwanza,1
+1159,Nyegezi,Dispensary,Public,Mwanza,1
+1160,Mondo,Dispensary,Public,Mwanza,1
+1161,Kalangalala Disp,Dispensary,Public,Mwanza,1
+1162,Kasenyi Dispensary,Dispensary,Public,Mwanza,1
+1163,Kasungamile Disp,Dispensary,Public,Mwanza,1
+1164,Sukuma,Dispensary,Public,Mwanza,1
+1165,Kafunzo,Dispensary,Public,Mwanza,1
+1166,Fumagile Dispensary,Health Centre,Public,Mwanza,1
+1167,Ukiriguru,Dispensary,Public,Mwanza,1
+1168,Makongoro Hc,Health Centre,Public,Mwanza,1
+1169,?? Bot,Dispensary,Public,Mwanza,1
+1170,Chamabanda Disp,Dispensary,Public,Mwanza,1
+1171,Sengerema Health Centre,Health Centre,Public,Mwanza,1
+1172,Nyamwilolelwa,Dispensary,Public,Mwanza,1
+1173,Nyanchenche Dispensary,Dispensary,Public,Mwanza,1
+1174,Muriti,Health Centre,Public,Mwanza,1
+1175,Buzilasoga Disp,Dispensary,Public,Mwanza,1
+1176,Buhama,Dispensary,Public,Mwanza,1
+1177,Nyamhongolo,Dispensary,Public,Mwanza,1
+1178,Nyamazugo,Dispensary,Public,Mwanza,1
+1179,Igogwe,Dispensary,Public,Mwanza,1
+1180,Nyamayinza Dispensary,Dispensary,Public,Mwanza,1
+1181,Lubiri,Dispensary,Public,Mwanza,1
+1182,Nyabumhanda Dispensary,Dispensary,Public,Mwanza,1
+1183,Buhindi Dispensary,Dispensary,Public,Mwanza,1
+1184,Nyehunnge,Health Centre,Public,Mwanza,1
+1185,Lugata,Dispensary,Public,Mwanza,1
+1186,Ngudu,Hospital,Public,Mwanza,1
+1187,Buzegwe,Dispensary,Public,Mwanza,1
+1188,Kigara,Dispensary,Public,Mwanza,1
+1189,Mwanangwa,Dispensary,Public,Mwanza,1
+1190,Balatogwa,Dispensary,Public,Mwanza,1
+1191,Kanyelele,Dispensary,Public,Mwanza,1
+1192,Mwaniko,Dispensary,Public,Mwanza,1
+1193,Nyamadoke,Dispensary,Public,Mwanza,1
+1194,Gambajiga,Dispensary,Public,Mwanza,1
+1195,Ngoma B,Dispensary,Public,Mwanza,1
+1196,Bukiko,Dispensary,Public,Mwanza,1
+1197,Tunyenye,Dispensary,Public,Mwanza,1
+1198,Bugorola,Dispensary,Public,Mwanza,1
+1199,Kalebezo,Dispensary,Public,Mwanza,1
+1200,Mayuya,Dispensary,Public,Mwanza,1
+1201,Busisi,Health Centre,Public,Mwanza,1
+1202,Kirumba,Dispensary,Public,Mwanza,1
+1203,Bwisya,Health Centre,Public,Mwanza,1
+1204,Malya,Health Centre,Public,Mwanza,1
+1205,Lushamba,Dispensary,Public,Mwanza,1
+1206,Karume,Health Centre,Public,Mwanza,1
+1207,Nyerere,Dispensary,Public,Mwanza,1
+1208,Runere,Dispensary,Public,Mwanza,1
+1209,Kiloleli Chamwenda,Dispensary,Public,Mwanza,1
+1210,Luhanga,Dispensary,Public,Mwanza,1
+1211,Mwagala,Dispensary,Public,Mwanza,1
+1212,Ibongoya,Dispensary,Public,Mwanza,1
+1213,Nyamatongo,Dispensary,Public,Mwanza,1
+1214,Mbugani Dispensary,Dispensary,Public,Mwanza,1
+1215,Bilulumo,Dispensary,Public,Mwanza,1
+1216,Bugembe,Dispensary,Public,Mwanza,1
+1217,Igokelo,Dispensary,Public,Mwanza,1
+1218,Mahina,Dispensary,Public,Mwanza,1
+1219,Muluseni,Dispensary,Public,Mwanza,1
+1220,Butimba Polisi,Dispensary,Public,Mwanza,1
+1221,Nyamtelela,Dispensary,Public,Mwanza,1
+1222,Bitoto,Dispensary,Public,Mwanza,1
+1223,Isamilo,Dispensary,Public,Mwanza,1
+1224,Nguge,Dispensary,Public,Mwanza,1
+1225,Sumbugu,Dispensary,Public,Mwanza,1
+1226,Kabusungu,Dispensary,Public,Mwanza,1
+1227,Kaunda,Dispensary,Public,Mwanza,1
+1228,Irugwa,Dispensary,Public,Mwanza,1
+1229,Igongwa,Dispensary,Public,Mwanza,1
+1230,Bukokwa,Dispensary,Public,Mwanza,1
+1231,Bulamba,Dispensary,Public,Mwanza,1
+1232,Kahama,Dispensary,Public,Mwanza,1
+1233,Kamasi,Dispensary,Public,Mwanza,1
+1234,Chifule,Dispensary,Public,Mwanza,1
+1235,Busumba,Dispensary,Public,Mwanza,1
+1236,Mwamboku,Dispensary,Public,Mwanza,1
+1237,Busongo,Health Centre,Public,Mwanza,1
+1238,Ilekanilo,Dispensary,Public,Mwanza,1
+1239,Mwagiligili Dispensary,Dispensary,Public,Mwanza,1
+1240,Namagondo,Dispensary,Public,Mwanza,1
+1241,Kiliwi,Dispensary,Public,Mwanza,1
+1242,Bugula,Dispensary,Public,Mwanza,1
+1243,Nyampande,Dispensary,Public,Mwanza,1
+1244,Bugisha,Dispensary,Public,Mwanza,1
+1245,Nyakasungwa,Dispensary,Public,Mwanza,1
+1246,Bukonyo,Dispensary,Public,Mwanza,1
+1247,Galu,Dispensary,Public,Mwanza,1
+1248,Isesa,Dispensary,Public,Mwanza,1
+1249,Nyahiti,Dispensary,Public,Mwanza,1
+1250,Muhula,Dispensary,Public,Mwanza,1
+1251,Lyoma,Dispensary,Public,Mwanza,1
+1252,Inala Dispensary,Dispensary,Public,Mwanza,1
+1253,Igaka,Dispensary,Public,Mwanza,1
+1254,Bukumbi Camp Dispensary,Dispensary,Public,Mwanza,1
+1255,Mbarika,Health Centre,Public,Mwanza,1
+1256,Mwampulu Dispensary,Dispensary,Public,Mwanza,1
+1257,Nyang'homango Dispensary,Dispensary,Public,Mwanza,1
+1258,Mahaha,Dispensary,Public,Mwanza,1
+1259,Tambukareli,Dispensary,Public,Mwanza,1
+1260,Mahando Dispensary,Dispensary,Public,Mwanza,1
+1261,Hamkoko,Dispensary,Public,Mwanza,1
+1262,512 Kj Dispensary,Dispensary,Public,Mwanza,1
+1263,Murutunguru,Dispensary,Public,Mwanza,1
+1264,Koromije,Health Centre,Public,Mwanza,1
+1265,Butimba Ttc,Dispensary,Public,Mwanza,1
+1266,Igulumuki,Dispensary,Public,Mwanza,1
+1267,Mwabaluhi,Dispensary,Public,Mwanza,1
+1268,Ngudu Gereza,Dispensary,Public,Mwanza,1
+1269,Nyamikoma Dispensary,Dispensary,Public,Mwanza,1
+1270,Nyaishana Dispensary,Dispensary,Public,Mwanza,1
+1271,Buhumbi,Dispensary,Public,Mwanza,1
+1272,Maisome Dispensary,Dispensary,Public,Mwanza,0
+1273,Kayenze Dispensary,Dispensary,Public,Mwanza,0
+1274,Juma Kisiwani Dispensary,Dispensary,Public,Mwanza,0
+1275,Chanduru,Dispensary,Public,Mwanza,0
+1276,Ilula,Dispensary,Public,Mwanza,0
+1277,Mwamazeng0,Dispensary,Public,Mwanza,0
+1278,Katoma Dispensary,Dispensary,Public,Mwanza,0
+1279,Nyamijundu,Dispensary,Public,Mwanza,0
+1280,Mwabilanda,Dispensary,Public,Mwanza,0
+1281,Kalumo Dispensary,Dispensary,Public,Mwanza,0
+1282,Sogoso,Dispensary,Public,Mwanza,0
+1283,Kome,Health Centre,Public,Mwanza,0
+1284,Nimr,Health Centre,Public,Mwanza,0
+1285,Kahangara,Health Centre,Public,Mwanza,0
+1286,Mwangika Dispensary,Dispensary,Public,Mwanza,0
+1287,Kagunga,Health Centre,Public,Mwanza,0
+1288,Ibindo Dispensary,Dispensary,Public,Mwanza,0
+1289,Matale,Dispensary,Public,Mwanza,0
+1290,Sizu,Dispensary,Public,Mwanza,0
+1291,Ng'ombe,Dispensary,Public,Mwanza,0
+1292,Lumeji,Dispensary,Public,Mwanza,0
+1293,Idetemya Dispensary,Dispensary,Public,Mwanza,0
+1294,Ngomamtimba,Dispensary,Public,Mwanza,0
+1295,Kibitilwa,Dispensary,Public,Mwanza,0
+1296,Kigangama,Dispensary,Public,Mwanza,0
+1297,Nyangalamila,Dispensary,Public,Mwanza,0
+1298,Lutale,Dispensary,Public,Mwanza,0
+1299,Busalanga,Dispensary,Public,Mwanza,0
+1300,Rubya Dispensary,Dispensary,Public,Mwanza,0
+1301,Mwamabanza,Dispensary,Public,Mwanza,0
+1302,Mwambola Dispensary,Dispensary,Public,Mwanza,0
+1303,Kabila,Health Centre,Public,Mwanza,0
+1304,Nhobola Disp,Dispensary,Public,Mwanza,0
+1305,Kisesa,Health Centre,Public,Mwanza,0
+1306,Milyungu,Dispensary,Public,Mwanza,0
+1307,Ihayabuyaga,Dispensary,Public,Mwanza,0
+1308,Mahiga,Dispensary,Public,Mwanza,0
+1309,Buyogo,Dispensary,Public,Mwanza,0
+1310,Kweru,Dispensary,Public,Mwanza,0
+1311,Nyanguge,Health Centre,Public,Mwanza,0
+1312,Nyambuyi,Dispensary,Public,Mwanza,0
+1313,Manawa,Dispensary,Public,Mwanza,0
+1314,Jojiro,Dispensary,Public,Mwanza,0
+1315,Kongolo,Dispensary,Public,Mwanza,0
+1316,Kikubiji,Dispensary,Public,Mwanza,0
+1317,Sengerema Secondary,Dispensary,Public,Mwanza,0
+1318,Kishinda,Dispensary,Public,Mwanza,0
+1319,Nyamanga,Dispensary,Public,Mwanza,0
+1320,Izizimba,Dispensary,Public,Mwanza,0
+1321,Nyanghonge,Dispensary,Public,Mwanza,0
+1322,Nyamigamba,Dispensary,Public,Mwanza,0
+1323,Walla,Dispensary,Public,Mwanza,0
+1324,Ijinga,Dispensary,Public,Mwanza,0
+1325,Mwitambu,Dispensary,Public,Mwanza,0
+1326,Ndamhi,Dispensary,Public,Mwanza,0
+1327,Buhunda Dispensary,Dispensary,Public,Mwanza,0
+1328,Mwankulwe,Dispensary,Public,Mwanza,0
+1329,Talaga Dispensary,Dispensary,Public,Mwanza,0
+1330,Chibuji,Dispensary,Public,Mwanza,0
+1331,Trc Marine,Dispensary,Public,Mwanza,0
+1332,Bujingwa,Dispensary,Public,Mwanza,0
+1333,Manay,Dispensary,Public,Mwanza,0
+1334,Bubinza,Dispensary,Public,Mwanza,0
+1335,Shishani,Dispensary,Public,Mwanza,0
+1336,Mwadubi,Dispensary,Public,Mwanza,0
+1337,Busangu Mugu,Dispensary,Public,Mwanza,0
+1338,Sayaka,Dispensary,Public,Mwanza,0
+1339,Solwe,Dispensary,Public,Mwanza,0
+1340,Shushi,Dispensary,Public,Mwanza,0
+1341,Welamasonga,Dispensary,Public,Mwanza,0
+1342,Mwashepi,Dispensary,Public,Mwanza,0
+1343,Mwakilyambiti,Dispensary,Public,Mwanza,0
+1344,Mukunu,Dispensary,Public,Mwanza,0
+1345,Mwang'halanga,Dispensary,Public,Mwanza,0
+1346,Bungulwa,Dispensary,Public,Mwanza,0
+1347,Bujashi,Dispensary,Public,Mwanza,0
+1348,Kitongosima,Dispensary,Public,Mwanza,0
+1349,Mulaga,Dispensary,Public,Mwanza,0
+1350,Nkinga,Dispensary,Public,Mwanza,0
+1351,Kinango,Dispensary,Public,Mwanza,0
+1352,Maligisu Dispensary,Dispensary,Public,Mwanza,0
+1353,Nyamilama,Health Centre,Public,Mwanza,0
+1354,Ilumba,Dispensary,Public,Mwanza,0
+1355,Malembe,Dispensary,Public,Mwanza,0
+1356,Isolo,Dispensary,Public,Mwanza,0
+1357,Mwamanga,Dispensary,Public,Mwanza,0
+1358,Kisesa B,Dispensary,Public,Mwanza,0
+1359,Mwanekeyi Dispensary,Dispensary,Public,Mwanza,0
+1360,Busekwa,Dispensary,Public,Mwanza,0
+1361,Nyegezi Fisheries,Dispensary,Public,Mwanza,0
+1362,Mwabulenga,Dispensary,Public,Mwanza,0
+1363,Igombe,Dispensary,Public,Mwanza,0
+1364,Igalula Dispensary,Dispensary,Public,Mwanza,0
+1365,Mwaging'hi,Dispensary,Public,Mwanza,0
+1366,Mennonite,Dispensary,Public,Mwanza,0
+1367,Methodist,Dispensary,Public,Mwanza,0
+1368,Shilembo,Dispensary,Public,Mwanza,0
+1369,663 Regt Dispensary,Dispensary,Public,Mwanza,0
+1370,Bugandando,Dispensary,Public,Mwanza,0
+1371,Luhorongoma,Dispensary,Public,Mwanza,0
+1372,Sotta,Dispensary,Public,Mwanza,0
+1373,Isole,Dispensary,Public,Mwanza,0
+1374,Chuo Cha Michezo Malya,Dispensary,Public,Mwanza,0
+1375,Hamuyebe,Dispensary,Public,Mwanza,0
+1376,Nyasato,Dispensary,Public,Mwanza,0
+1377,Igekemaja,Dispensary,Public,Mwanza,0
+1378,Salama Bugatu,Dispensary,Public,Mwanza,0
+1379,Sese,Dispensary,Public,Mwanza,0
+1380,Mwafuguji,Dispensary,Public,Simiyu,1
+1381,Meatu ,Hospital,Public,Simiyu,1
+1382,Mwangudo,Dispensary,Public,Simiyu,1
+1383,Itinje,Dispensary,Public,Simiyu,1
+1384,Imaleseko,Dispensary,Public,Simiyu,1
+1385,Sakasaka,Dispensary,Public,Simiyu,1
+1386,Mwabuzo,Dispensary,Public,Simiyu,1
+1387,Kabondo,Dispensary,Public,Simiyu,1
+1388,Nkoma Health Center,Health Centre,Public,Simiyu,1
+1389,Mwandoya,Health Centre,Public,Simiyu,0
+1390,Mbugayabanhya,Dispensary,Public,Simiyu,0
+1391,Mwamanongu,Dispensary,Public,Simiyu,0
+1392,Mwandu Itinje,Dispensary,Public,Simiyu,0
+1393,Mwamatiga,Dispensary,Public,Simiyu,0
+1394,Mwabagimu,Dispensary,Public,Simiyu,0
+1395,Lingeka,Dispensary,Public,Simiyu,0
+1396,Bukundi ,Health Centre,Public,Simiyu,0
+1397,Mwabalebi,Dispensary,Public,Simiyu,0
+1398,Paji,Dispensary,Public,Simiyu,0
+1399,Mwambiti,Dispensary,Public,Simiyu,0
+1400,Kisesa,Dispensary,Public,Simiyu,0
+1401,Mwabuma,Dispensary,Public,Simiyu,0
+1402,Mwamanimba,Dispensary,Public,Simiyu,0
+1403,Mwashata,Dispensary,Public,Simiyu,0
+1404,Mwamishali,Dispensary,Public,Simiyu,0
+1405,Isengwa,Dispensary,Public,Simiyu,0
+1406,Nyanza,Dispensary,Public,Simiyu,0
+1407,Mwabulutago ,Dispensary,Public,Simiyu,0
+1408,Mwanjolo,Dispensary,Public,Simiyu,0
+1409,Mwabagalu,Dispensary,Public,Simiyu,0
+1410,Bulyashi,Dispensary,Public,Simiyu,0
+1411,Mwabusalu,Dispensary,Public,Simiyu,0
+1412,Makao,Dispensary,Public,Simiyu,0
+1413,Mwageni,Dispensary,Public,Simiyu,0
+1414,Chambala,Dispensary,Public,Simiyu,0
+1415,Ng'hoboko,Dispensary,Public,Simiyu,0
+1416,Mwamanoni,Dispensary,Public,Simiyu,0
+1417,Lubiga,Dispensary,Public,Simiyu,0
+1418,Longalonhiga,Dispensary,Public,Simiyu,0
+1419,Semu,Dispensary,Public,Simiyu,0
+1420,Mwamalole,Dispensary,Public,Simiyu,0
+1421,Nkoma.,Dispensary,Public,Simiyu,0
+1422,Mwakipopo,Dispensary,Public,Simiyu,0
+1423,Jinamo,Dispensary,Public,Simiyu,0
+1424,Mbalagane,Dispensary,Public,Simiyu,0
+1425,Minyanda,Dispensary,Public,Simiyu,0
+1426,Mwangikulu,Dispensary,Public,Simiyu,0
+1427,Mbushi,Dispensary,Public,Simiyu,0
+1428,Mwakaluba,Dispensary,Public,Simiyu,0
+1429,Sungu,Dispensary,Public,Simiyu,0
+1430,Ikindilo Health Center,Health Centre,Public,Simiyu,0
+1431,Zagayu Health Center,Health Centre,Public,Simiyu,0

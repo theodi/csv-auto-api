@@ -1,7 +1,13 @@
 const express = require('express'); // Library than creates and manages REST requests
 const ejs = require('ejs'); // Library to render HTML pages for web browsers
 const fs = require('fs'); // Library to read files from disk
+const path = require('path'); // Import the 'path' module
 const csv = require('csv-parser'); // Library to parse CSVs
+const fastcsv = require('fast-csv');
+const { MongoClient, ObjectId } = require('mongodb'); // Import MongoDB package
+require("dotenv").config({ path: "./config.env" });
+const mongoURI = process.env.MONGO_URI || false;
+const mongoDB = process.env.MONGO_DB || false;
 
 const app = express(); // Initialise the REST app
 const database = {};
@@ -11,7 +17,7 @@ var rows = []; // Create an array to store the rows from our CSV data
 /*
  * Ensure that the user has defined a csv file to load!
  */
-if (process.argv.length < 3) {
+if (process.argv.length < 3 && !mongoURI) {
 	console.log('No input files specified!');
 	process.exit();
 }
@@ -21,7 +27,13 @@ if (process.argv.length < 3) {
  */
 for (i=2;i<process.argv.length;i++) {
 	file = process.argv[i];
-	loadFile(file);
+    const collectionName = path.basename(file).split('.').shift(); // Extract the file name and use it as the collection name
+    if (mongoURI) {
+        console.log("trying to load");
+        loadFileToMongo(file, collectionName)
+    } else {
+	    loadFile(file);
+    }
 }
 
 /*
@@ -45,13 +57,93 @@ function loadFile(file, input) {
 }
 
 /*
+ * Function to load data from a CSV file into MongoDB
+ */
+async function loadFileToMongo(file, collectionName) {
+    console.log(`${file} loading...`);
+    const client = new MongoClient(mongoURI, { useUnifiedTopology: true });
+
+    try {
+        await client.connect();
+        console.log('connection open');
+
+        const db = client.db(mongoDB);
+        const collection = db.collection(collectionName);
+
+        // Clear existing data in the collection
+        await collection.deleteMany({});
+
+        await client.close();
+        console.log('connection closed')
+    } catch (err) {
+        console.error('Error:', error);
+        client.close(); // Close the connection in case of an error
+        console.log('Connection closed due to error');
+    }
+
+    try {
+        await client.connect();
+        console.log('connection open');
+
+        const db = client.db(mongoDB);
+        const collection = db.collection(collectionName);
+
+        const stream = fs.createReadStream(file);
+
+        const csvStream = await fastcsv.parse({ headers: true })
+            .on('data', async (data) => {
+                // Insert each CSV row as a document into the MongoDB collection
+                console.log("trying to insert");
+                //console.log(data);
+                await collection.insertOne(data);
+            })
+            .on('end', async () => {
+                //await client.close();
+                console.log("connection closed");
+                console.log(`${file} loaded to MongoDB`);
+            });
+
+        stream.pipe(csvStream);
+    } catch (error) {
+        console.error('Error:', error);
+        client.close(); // Close the connection in case of an error
+        console.log('Connection closed due to error');
+    }
+}
+
+/*
+ * Function to query data from MongoDB
+ */
+async function queryDataFromMongo(prefix, filter) {
+    const client = new MongoClient(mongoURI);
+
+    try {
+        await client.connect();
+
+        const db = client.db(mongoDB);
+        const collection = db.collection(prefix);
+
+        // Perform the query based on the filter
+        const result = await collection.find(filter).toArray();
+
+        return result;
+    } catch (err) {
+        console.error(err);
+    } finally {
+        await client.close();
+    }
+}
+
+
+/*
  * Function to handle the users REST request
  */
-function handleRequest(req,res) {
+async function handleRequest(req,res) {
     // Get the path they have asked for and the file type.
     prefix = req.params["prefix"];
     heading = req.params["column_heading"];
     value = req.params["value"];
+    id = req.params["id"];
 
     // Also manage query parameters at the same time
     filter = req.query;
@@ -63,16 +155,28 @@ function handleRequest(req,res) {
     if (prefix == "LFB" && Object.keys(filter).length === 0) {
         res.status(400).send('This dataset is too large to serve all of it in one request');
     }
+    let result = {};
 
-    // Filter the data according to the request to only contain relevant rows
-    result = database[prefix];
-    result = result.filter(function(item) {
-    for(var key in filter) {
-        if(item[key] === undefined || item[key] != filter[key])
-            return false;
+    if (mongoURI) {
+        if (id) {
+            try {
+                filter["_id"] = new ObjectId(id);
+            } catch (err) {
+                console.error("Invalid ObjectId:", err);
+            }
         }
-        return true;
-    });
+        result = await queryDataFromMongo(prefix, filter);
+    } else {
+        // Filter the data according to the request to only contain relevant rows
+        result = database[prefix];
+        result = result.filter(function(item) {
+        for(var key in filter) {
+            if(item[key] === undefined || item[key] != filter[key])
+                return false;
+            }
+            return true;
+        });
+    }
 
     // Work out what the client asked for, the ".ext" specified always overrides content negotiation
     ext = req.params["ext"];
@@ -103,7 +207,6 @@ function handleRequest(req,res) {
 
 // Custom function to convert JSON data to CSV
 function json2csv(jsonData) {
-    console.log(jsonData);
     if (jsonData.length === 0) {
         return '';
     }
@@ -126,10 +229,14 @@ function json2csv(jsonData) {
  * Set the available REST endpoints and how to handle them
  */
 app.get('/', function(req,res) { handleRequest(req,res); });
-app.get('/:column_heading/:value.:ext', function(req,res) { handleRequest(req,res); });
-app.get('/:column_heading/:value', function(req,res) { handleRequest(req,res); });
+app.get('/:prefix', function(req,res) { handleRequest(req,res); });
+app.get('/:prefix/', function(req,res) { handleRequest(req,res); });
+app.get('/:prefix/:id.:ext', function(req,res) { handleRequest(req,res); });
+app.get('/:prefix/:id', function(req,res) { handleRequest(req,res); });
+app.get('/:prefix/:column_heading/:value.:ext', function(req,res) { handleRequest(req,res); });
+app.get('/:prefix/:column_heading/:value', function(req,res) { handleRequest(req,res); });
 
 /*
  * Start the app!
  */
-app.listen(3000, () => console.log('Example app listening on port 3000!'));
+app.listen(3000, () => console.log('App listening on port 3000!'));

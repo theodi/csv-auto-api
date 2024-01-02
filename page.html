@@ -21,10 +21,11 @@
 </body>
 <script>
 	$(document).ready(function() {
-		//Work out the query to re-ask the server! 
+		//Work out the query to re-ask the server!
 
 		query = <%- JSON.stringify(query) %>;
 		path = "<%= path %>";
+		path = path.replace(/\.[^/.]+$/, "");
 		query_params = [];
 		Object.keys(query).forEach(function(key,index) {
 			query_params.push(encodeURIComponent(key) + "=" + encodeURIComponent(query[key]));
@@ -32,7 +33,7 @@
 		if (query_params.length > 0) {
 			path = path + "?" + query_params.join("&");
 		}
-		
+
 		// Get the data render the table
 		$.getJSON(path, function( data ) {
 			item = data[0];
@@ -55,7 +56,7 @@
 				"buttons": ["copy","csv","pdf"]
 			});
 		});
-		
+
 	});
 </script>
 </html>
