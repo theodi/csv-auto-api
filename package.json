@@ -2,7 +2,7 @@
   "name": "csv-auto-api",
   "version": "3.0.0",
   "description": "An automatic API for CSV",
-  "main": "index.js",
+  "main": "csvAutoAPI.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/davetaz/csv-auto-api"
