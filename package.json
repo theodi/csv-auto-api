@@ -5,14 +5,14 @@
   "main": "csvAutoAPI.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davetaz/csv-auto-api"
+    "url": "git+https://github.com/theodi/csv-auto-api"
   },
   "author": "Dave Tarrant",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davetaz/csv-auto-api/issues"
+    "url": "https://github.com/theodi/csv-auto-api/issues"
   },
-  "homepage": "https://github.com/davetaz/csv-auto-api#readme",
+  "homepage": "https://github.com/theodi/csv-auto-api#readme",
   "dependencies": {
     "csv-parser": "^3.0.0",
     "dotenv": "^16.3.1",
