@@ -8,6 +8,7 @@ const { MongoClient, ObjectId } = require('mongodb'); // Import MongoDB package
 require("dotenv").config({ path: "./config.env" });
 const mongoURI = process.env.MONGO_URI || false;
 const mongoDB = process.env.MONGO_DB || false;
+const port = process.env.PORT || 3000;
 
 const app = express(); // Initialise the REST app
 const database = {};
@@ -232,4 +233,4 @@ app.get('/:prefix/:column_heading/:value', function(req,res) { handleRequest(req
 /*
  * Start the app!
  */
-app.listen(3000, () => console.log('App listening on port 3000!'));
+app.listen(port, () => console.log('App listening on port ' + port));
