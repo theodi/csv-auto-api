@@ -65,7 +65,6 @@ async function loadFileToMongo(file, collectionName) {
 
     try {
         await client.connect();
-        console.log('connection open');
 
         const db = client.db(mongoDB);
         const collection = db.collection(collectionName);
@@ -74,7 +73,6 @@ async function loadFileToMongo(file, collectionName) {
         await collection.deleteMany({});
 
         await client.close();
-        console.log('connection closed')
     } catch (error) {
         console.error('Error:', error);
         client.close(); // Close the connection in case of an error
@@ -83,7 +81,6 @@ async function loadFileToMongo(file, collectionName) {
 
     try {
         await client.connect();
-        console.log('connection open');
 
         const db = client.db(mongoDB);
         const collection = db.collection(collectionName);
@@ -93,13 +90,9 @@ async function loadFileToMongo(file, collectionName) {
         const csvStream = await fastcsv.parse({ headers: true })
             .on('data', async (data) => {
                 // Insert each CSV row as a document into the MongoDB collection
-                console.log("trying to insert");
-                //console.log(data);
                 await collection.insertOne(data);
             })
             .on('end', async () => {
-                //await client.close();
-                console.log("connection closed");
                 console.log(`${file} loaded to MongoDB`);
             });
 
